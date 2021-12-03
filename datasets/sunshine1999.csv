@@ -14,8 +14,8 @@ Colleges,JOHNSTON,RICHARD,"$139,358.74",$549.44,Centennial College,President,199
 Colleges,KHAN,MOHAMMED,"$121,535.26",$166.05,Centennial College,Professor,1999
 Colleges,SCRAGG,MARIE,"$103,934.60",$107.16,Centennial College,Professor,1999
 Colleges,SUMMERS,WILLIAM,"$106,368.31",$619.75,Centennial College,"Vice President, Academics",1999
-Colleges,CHRÉTIEN,GISELE,"$116,307.91","$1,031.34",College Boreal,Présidente,1999
-Colleges,GUINDON,RAYMOND,"$101,184.09",$601.62,College Boreal,"VP, Invest. et dév. stratégique",1999
+Colleges,CHRÃ‰TIEN,GISELE,"$116,307.91","$1,031.34",College Boreal,PrÃ©sidente,1999
+Colleges,GUINDON,RAYMOND,"$101,184.09",$601.62,College Boreal,"VP, Invest. et dÃ©v. stratÃ©gique",1999
 Colleges,MAYRAND,ROBERT,"$114,947.10",$652.88,College des Grands Lacs,President,1999
 Colleges,MAINLAND,MARIAN,"$105,662.00",$25.00,Conestoga College,Counsellor/Psychological Associate,1999
 Colleges,MULLAN,KEVIN,"$107,219.00",$592.00,Conestoga College,"VP, Finance&Admin.",1999
@@ -48,9 +48,9 @@ Colleges,GORDON,ROBERT A.,"$144,390.54","$9,115.28",Humber College,President,199
 Colleges,HARPER,MICHAEL,"$101,651.56",$211.29,Humber College,"Dean, Planning/International",1999
 Colleges,HOOK,RICHARD,"$115,876.00",$501.99,Humber College,"Vice President, Academic",1999
 Colleges,RORK,RODERICK P.,"$111,177.74",$471.44,Humber College,"Vice President, Administration",1999
-Colleges,BERGERON,CLAUDE,"$115,345.71",$612.59,La Cité collégiale,"Vice-président, Enseignement",1999
-Colleges,HUBERT,DENIS,"$109,472.76",$551.33,La Cité collégiale,"VP, Administration et Finances",1999
-Colleges,LORTIE,ANDRÉE,"$126,789.84","$2,183.42",La Cité collégiale,Présidente,1999
+Colleges,BERGERON,CLAUDE,"$115,345.71",$612.59,La CitÃ© collÃ©giale,"Vice-prÃ©sident, Enseignement",1999
+Colleges,HUBERT,DENIS,"$109,472.76",$551.33,La CitÃ© collÃ©giale,"VP, Administration et Finances",1999
+Colleges,LORTIE,ANDRÃ‰E,"$126,789.84","$2,183.42",La CitÃ© collÃ©giale,PrÃ©sidente,1999
 Colleges,BLUNDELL,TERENCE J.,"$134,777.04","$13,073.02",Lambton College,President,1999
 Colleges,AULD,DOUGLAS A.,"$130,053.22","$9,069.94",Loyalist College,President,1999
 Colleges,ARBOUR,MONIQUE,"$107,238.02",$706.17,Mohawk College,"VP, Finance and Administration",1999
@@ -823,9 +823,9 @@ Hospitals,YAKEMCHUK,N.,"$152,632.08",$375.51,Hamilton Health Sciences Centre,Phy
 Hospitals,ARCISZEWSKA,HALSZAKA T.,"$138,162.15",$395.16,Hamilton Psychiatric Hospital,Psychiatrist,1999
 Hospitals,MACCRIMMON,DUNCAN J.,"$145,147.83",$414.96,Hamilton Psychiatric Hospital,Program Director,1999
 Hospitals,LALONDE,MICHEL P.,"$143,018.94","$9,403.37",Hawkesbury & District Gen.Hosp.In,President & Chief Executive Officer,1999
-Hospitals,CARLIER,M.,"$142,327.74",$736.14,Hôpital Montfort,Pathologiste,1999
-Hospitals,JOYAL,M.,"$107,030.93","$4,197.63",Hôpital Montfort,"VP, Admin. des affaires et finances",1999
-Hospitals,SAVOIE,G.R.,"$188,579.07","$9,673.18",Hôpital Montfort,Président-directeur général,1999
+Hospitals,CARLIER,M.,"$142,327.74",$736.14,HÃ´pital Montfort,Pathologiste,1999
+Hospitals,JOYAL,M.,"$107,030.93","$4,197.63",HÃ´pital Montfort,"VP, Admin. des affaires et finances",1999
+Hospitals,SAVOIE,G.R.,"$188,579.07","$9,673.18",HÃ´pital Montfort,PrÃ©sident-directeur gÃ©nÃ©ral,1999
 Hospitals,ACKERLEY,CAMERON A,"$103,300.19",$0.00,Hospital for Sick Children,Em Applications Specialist,1999
 Hospitals,ADELI,KHOSROW,"$128,655.10",$777.60,Hospital for Sick Children,Head Division of Biochemistry,1999
 Hospitals,AHMED,KHWAJA S.,"$120,005.80",$0.00,Hospital for Sick Children,Senior Project Director,1999
@@ -5346,7 +5346,7 @@ Other Public Sector Employers,LISTON,JOHN,"$120,684.44",$260.02,"C.A.S., London 
 Other Public Sector Employers,CHARRON,WILLIAM,"$109,320.19",$672.00,"C.A.S., Niagara Region",Executive Director,1999
 Other Public Sector Employers,LECK,GEORGE,"$106,948.00",$957.00,"C.A.S., Simcoe County",Executive Director,1999
 Other Public Sector Employers,ALLEN,DAVID,"$116,046.96",$329.78,Canadian Hearing Society,Executive Director,1999
-Other Public Sector Employers,DUPRÉ,J. STEFAN,"$175,000.00",$0.00,Canadian Inst. for Advanced Researc,President,1999
+Other Public Sector Employers,DUPRÃ‰,J. STEFAN,"$175,000.00",$0.00,Canadian Inst. for Advanced Researc,President,1999
 Other Public Sector Employers,TODGHAM,L. DOUGLAS,"$121,899.54",$338.88,Canadian Inst. for Advanced Researc,"Vice President, Development",1999
 Other Public Sector Employers,COLEMAN,JOHN,"$110,119.68",$641.42,Canadian Nat. Institute for the Blind,"Director, Business & Special Revenues",1999
 Other Public Sector Employers,GRACE,GERRARD,"$118,966.69","$4,723.42",Canadian Nat. Institute for the Blind,"VP, Marketing",1999
@@ -5368,12 +5368,12 @@ Other Public Sector Employers,BLACK,WILLIAM,"$123,119.00",$0.00,Central Toronto 
 Other Public Sector Employers,JHIRAD,RHEUVEN,"$110,807.00",$0.00,Central Toronto Community Hlth Ctr.,Family Physician,1999
 Other Public Sector Employers,JOHAL,MALKIT,"$123,119.00",$0.00,Central Toronto Community Hlth Ctr.,Family Physician,1999
 Other Public Sector Employers,SAKULS,PETER,"$123,119.00",$0.00,Central Toronto Community Hlth Ctr.,Family Physician,1999
-Other Public Sector Employers,BONNET,FRANCINE,"$140,659.76","$8,145.74",Centre de santé comm. de l'Estrie,omnipraticienne,1999
-Other Public Sector Employers,MARTEL,GAETAN,"$137,954.55","$7,958.70",Centre de santé comm. de l'Estrie,omnipraticien,1999
-Other Public Sector Employers,BRUNET,CLAIRE-LUCIE,"$127,352.08","$2,420.94",Centre de santé comm. de Sudbury,médecin,1999
-Other Public Sector Employers,FRENETTE,LUCIE,"$161,988.52","$3,638.42",Centre de santé comm. de Sudbury,médecin,1999
-Other Public Sector Employers,TITTLEY,CAMILLE,"$122,657.28","$4,885.06",Centre de santé comm. HWN,médecin,1999
-Other Public Sector Employers,HAMBOYAN,HERAG,"$109,684.00","$4,267.52",Centre médics social comm.,Doctor,1999
+Other Public Sector Employers,BONNET,FRANCINE,"$140,659.76","$8,145.74",Centre de santÃ© comm. de l'Estrie,omnipraticienne,1999
+Other Public Sector Employers,MARTEL,GAETAN,"$137,954.55","$7,958.70",Centre de santÃ© comm. de l'Estrie,omnipraticien,1999
+Other Public Sector Employers,BRUNET,CLAIRE-LUCIE,"$127,352.08","$2,420.94",Centre de santÃ© comm. de Sudbury,mÃ©decin,1999
+Other Public Sector Employers,FRENETTE,LUCIE,"$161,988.52","$3,638.42",Centre de santÃ© comm. de Sudbury,mÃ©decin,1999
+Other Public Sector Employers,TITTLEY,CAMILLE,"$122,657.28","$4,885.06",Centre de santÃ© comm. HWN,mÃ©decin,1999
+Other Public Sector Employers,HAMBOYAN,HERAG,"$109,684.00","$4,267.52",Centre mÃ©dics social comm.,Doctor,1999
 Other Public Sector Employers,JENNER,JULIE,"$110,346.68",$599.32,Centretown Community Health Ctr.,Physician,1999
 Other Public Sector Employers,MUSTARD,CHUCK,"$112,917.55",$380.16,Centretown Community Health Ctr.,Physician,1999
 Other Public Sector Employers,GILL,MEL,"$134,900.68",$547.68,Childrens Aid Society-Ottawa,Executive Director,1999
@@ -5639,38 +5639,38 @@ School Boards,MCNALLY,GREGORY,"$110,089.00",$620.52,Catholic DSB of Eastern Onta
 School Boards,MUSCA,FRANK,"$138,164.16",$750.66,Catholic DSB of Eastern Ontario,Director of Education,1999
 School Boards,BOYER,RAYMOND,"$116,019.54","$5,153.64",CSBD du Nouvel-Ontario,Surintendant de secteur,1999
 School Boards,CANTIN,LEO-RENE,"$113,898.89","$5,074.77",CSBD du Nouvel-Ontario,Surintendant de secteur,1999
-School Boards,CHAYER,HELENE,"$122,535.44","$5,124.51",CSBD du Nouvel-Ontario,Directrice de l'éducation,1999
-School Boards,BERNARD,JEAN-LUC,"$120,051.00",$577.00,CSD Centre Sud-Ouest,Surintendant de l'éducation,1999
+School Boards,CHAYER,HELENE,"$122,535.44","$5,124.51",CSBD du Nouvel-Ontario,Directrice de l'Ã©ducation,1999
+School Boards,BERNARD,JEAN-LUC,"$120,051.00",$577.00,CSD Centre Sud-Ouest,Surintendant de l'Ã©ducation,1999
 School Boards,D'AMOUR,LOUISE,"$107,249.00",$610.00,CSD Centre Sud-Ouest,Surintendant,1999
-School Boards,DUCHARME,ALICE,"$141,515.00",$577.00,CSD Centre Sud-Ouest,Directrice de l'éducation,1999
+School Boards,DUCHARME,ALICE,"$141,515.00",$577.00,CSD Centre Sud-Ouest,Directrice de l'Ã©ducation,1999
 School Boards,DIONNE,MARC,"$121,706.26",$501.02,CSD Grand Nord de l'Ontario,Director,1999
 School Boards,LOZIER,DIANE,"$105,651.23",$459.42,CSD Grand Nord de l'Ontario,Surintendante,1999
-School Boards,CHARTRAND,DENIS,"$108,961.00",$566.00,CSD langue française Est Ontario,Directeur de l'éducation et sec.-trés.,1999
+School Boards,CHARTRAND,DENIS,"$108,961.00",$566.00,CSD langue franÃ§aise Est Ontario,Directeur de l'Ã©ducation et sec.-trÃ©s.,1999
 School Boards,BELANGER,PAUL,"$108,630.08",$845.44,CSDB du Sud-Ouest,Surintendant,1999
 School Boards,GRIFFORE,JANINE,"$108,630.08",$798.08,CSDB du Sud-Ouest,Surintendante,1999
-School Boards,GROULX,GEORGES,"$108,630.08",$898.54,CSDB du Sud-Ouest,Surintendant des affaires / trésorier,1999
+School Boards,GROULX,GEORGES,"$108,630.08",$898.54,CSDB du Sud-Ouest,Surintendant des affaires / trÃ©sorier,1999
 School Boards,LEVERT,DENIS,"$110,251.96",$840.72,CSDB du Sud-Ouest,Surintendant,1999
-School Boards,SERRE,MICHEL,"$125,669.18","$7,854.16",CSDB du Sud-Ouest,Directeur général,1999
+School Boards,SERRE,MICHEL,"$125,669.18","$7,854.16",CSDB du Sud-Ouest,Directeur gÃ©nÃ©ral,1999
 School Boards,BOUTIN,PIERRE,"$101,620.56",$459.06,CSDC Centre-Est de l'Ontario,Surintendant,1999
 School Boards,CHARLAND,LISE,"$110,621.94",$499.74,CSDC Centre-Est de l'Ontario,Surintendante,1999
-School Boards,FILIATRAULT,PIERRE,"$110,826.13","$4,317.91",CSDC Centre-Est de l'Ontario,Surintendant administratif et trésorier,1999
+School Boards,FILIATRAULT,PIERRE,"$110,826.13","$4,317.91",CSDC Centre-Est de l'Ontario,Surintendant administratif et trÃ©sorier,1999
 School Boards,GALARNEAU,GILLES,"$100,622.08",$459.06,CSDC Centre-Est de l'Ontario,Surintendant,1999
-School Boards,GODBOUT,MARC,"$126,784.06","$6,537.18",CSDC Centre-Est de l'Ontario,Directeur de l'éducation et secrétaire,1999
-School Boards,CHAMPAGNE,MADELEINE L.,"$133,088.45",$305.49,CSDC Centre-Sud,"Dir.,l'éducation / secrétaire-trésorière",1999
+School Boards,GODBOUT,MARC,"$126,784.06","$6,537.18",CSDC Centre-Est de l'Ontario,Directeur de l'Ã©ducation et secrÃ©taire,1999
+School Boards,CHAMPAGNE,MADELEINE L.,"$133,088.45",$305.49,CSDC Centre-Sud,"Dir.,l'Ã©ducation / secrÃ©taire-trÃ©soriÃ¨re",1999
 School Boards,LAFOREST,PAULETTE,"$113,510.07",$49.77,CSDC Centre-Sud,Surintendante,1999
-School Boards,LAVICTOIRE,FRANÇOIS,"$107,019.24",$282.09,CSDC Centre-Sud,Surintendant des écoles élémentaires,1999
-School Boards,DEBNAM,JOANNE,"$103,894.00",$187.20,CSDC des Aurores-Boréales,Directrice de l'éducation,1999
-School Boards,BERTRAND,FRANÇOIS,"$100,277.00",$563.00,CSDC Est Ontarien,Surintendant des affaires et trésorier,1999
-School Boards,LEGAULT,JEAN-JACQUES,"$100,277.00",$647.00,CSDC Est Ontarien,Surintendant de l'éducation,1999
-School Boards,VAILLANCOURT,DENIS,"$125,000.00",$687.00,CSDC Est Ontarien,Directeur de l'éducation et secrétaire,1999
-School Boards,GADOURY,LISE,"$110,428.50",$477.30,CSDC Franco-Nord,Directrice de l'éducation,1999
-School Boards,AINSWORTH,ALPHONSE,"$101,288.00","$1,019.00",CSDC Grandes Rivières,Agent de supervision,1999
-School Boards,DEMERS,BERNARD,"$101,288.00","$1,019.00",CSDC Grandes Rivières,Agent de supervision,1999
-School Boards,GRISE,JEAN,"$106,526.00","$1,756.00",CSDC Grandes Rivières,Directeur de l'éducation,1999
-School Boards,KOSCIELNIAK,HELENE,"$101,288.00","$1,019.00",CSDC Grandes Rivières,Agente de supervision,1999
-School Boards,LAFOREST,LILIANE,"$101,288.00","$1,019.00",CSDC Grandes Rivières,Agente de supervision,1999
-School Boards,LAMONTAGNE,EDITH,"$101,288.00","$1,019.00",CSDC Grandes Rivières,Agent de supervision,1999
-School Boards,SCHRYBURT,JEAN-LOUIS,"$101,288.00","$1,019.00",CSDC Grandes Rivières,Agent de supervision,1999
+School Boards,LAVICTOIRE,FRANÃ‡OIS,"$107,019.24",$282.09,CSDC Centre-Sud,Surintendant des Ã©coles Ã©lÃ©mentaires,1999
+School Boards,DEBNAM,JOANNE,"$103,894.00",$187.20,CSDC des Aurores-BorÃ©ales,Directrice de l'Ã©ducation,1999
+School Boards,BERTRAND,FRANÃ‡OIS,"$100,277.00",$563.00,CSDC Est Ontarien,Surintendant des affaires et trÃ©sorier,1999
+School Boards,LEGAULT,JEAN-JACQUES,"$100,277.00",$647.00,CSDC Est Ontarien,Surintendant de l'Ã©ducation,1999
+School Boards,VAILLANCOURT,DENIS,"$125,000.00",$687.00,CSDC Est Ontarien,Directeur de l'Ã©ducation et secrÃ©taire,1999
+School Boards,GADOURY,LISE,"$110,428.50",$477.30,CSDC Franco-Nord,Directrice de l'Ã©ducation,1999
+School Boards,AINSWORTH,ALPHONSE,"$101,288.00","$1,019.00",CSDC Grandes RiviÃ¨res,Agent de supervision,1999
+School Boards,DEMERS,BERNARD,"$101,288.00","$1,019.00",CSDC Grandes RiviÃ¨res,Agent de supervision,1999
+School Boards,GRISE,JEAN,"$106,526.00","$1,756.00",CSDC Grandes RiviÃ¨res,Directeur de l'Ã©ducation,1999
+School Boards,KOSCIELNIAK,HELENE,"$101,288.00","$1,019.00",CSDC Grandes RiviÃ¨res,Agente de supervision,1999
+School Boards,LAFOREST,LILIANE,"$101,288.00","$1,019.00",CSDC Grandes RiviÃ¨res,Agente de supervision,1999
+School Boards,LAMONTAGNE,EDITH,"$101,288.00","$1,019.00",CSDC Grandes RiviÃ¨res,Agent de supervision,1999
+School Boards,SCHRYBURT,JEAN-LOUIS,"$101,288.00","$1,019.00",CSDC Grandes RiviÃ¨res,Agent de supervision,1999
 School Boards,CLAPP,TILLIE,"$102,951.00",$867.00,DSB Niagara,Superintendent of Schools,1999
 School Boards,COLLINS,PAUL,"$105,735.00",$907.00,DSB Niagara,Superintendent of Schools,1999
 School Boards,CROSS,WAYNE,"$105,735.00",$795.00,DSB Niagara,Superintendent of Schools,1999
@@ -6678,7 +6678,7 @@ Universities,GEORGANAS,NICOLAS,"$110,135.68","$3,376.50",University of Ottawa,Pr
 Universities,GIRODO,MICHEL,"$100,141.36",$76.00,University of Ottawa,Professeur - Professor,1999
 Universities,GRANDBOIS,DARRYL A,"$124,781.36","$1,956.00",University of Ottawa,Conseiller Juridique - Legal Counsel,1999
 Universities,GRANGER,CHRISTOPHER,"$112,231.68",$76.01,University of Ottawa,Professeur - Professor,1999
-Universities,GREENE,RICHARD L,"$112,112.00",$76.00,University of Ottawa,Bibliothécaire En Chef - Chief Librarian,1999
+Universities,GREENE,RICHARD L,"$112,112.00",$76.00,University of Ottawa,BibliothÃ©caire En Chef - Chief Librarian,1999
 Universities,HADDAD,YEHIA M,"$101,407.04",$76.00,University of Ottawa,Professeur - Professor,1999
 Universities,HAKIM,ANTOINE M.,"$102,567.12",$76.00,University of Ottawa,Prof. Clin. (M.D.) ; Directeur - Chair,1999
 Universities,HAMELIN,MARCEL,"$183,855.00","$8,447.81",University of Ottawa,Recteur - Rector,1999

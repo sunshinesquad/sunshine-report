@@ -23,8 +23,8 @@ Colleges,SCOTT-THIBEDEAU,LINDA,"$149,421.90",$391.03,Centennial College,"Supervi
 Colleges,SUMMERS,WILLIAM,"$105,353.35","$5,826.65",Centennial College,"Vice President, Academic",2000
 Colleges,VAN-DE-PLASSE,MARIEKE,"$120,833.28",$136.21,Centennial College,"Manager, Admissions",2000
 Colleges,WATTS,LYNNE,"$100,673.75",$223.28,Centennial College,"VP, Administration",2000
-Colleges,CHRÉTIEN,GISELE,"$122,039.18","$1,101.47",College Boreal,Présidente,2000
-Colleges,GUINDON,RAYMOND,"$102,883.30",$595.32,College Boreal,"VP, Invest. et dév.stratégique",2000
+Colleges,CHRÃ‰TIEN,GISELE,"$122,039.18","$1,101.47",College Boreal,PrÃ©sidente,2000
+Colleges,GUINDON,RAYMOND,"$102,883.30",$595.32,College Boreal,"VP, Invest. et dÃ©v.stratÃ©gique",2000
 Colleges,MAINLAND,MARION,"$104,659.47",$0.00,Conestoga College,Professor/Psychological Assoc.,2000
 Colleges,MCGREGOR,GRANT,"$100,382.04",$550.68,Conestoga College,Principal,2000
 Colleges,MULLAN,KEVIN,"$118,040.73",$624.06,Conestoga College,V.P. Finance/Admin,2000
@@ -55,11 +55,11 @@ Colleges,GATAVECKAS,KRIS,"$115,963.60",$186.00,Humber College,"Vice President, B
 Colleges,GORDON,ROBERT,"$146,338.22","$8,538.92",Humber College,President,2000
 Colleges,HATTON,MICHAEL,"$101,880.03",$567.84,Humber College,"Asst. VP, Strategic Growth",2000
 Colleges,HOOK,RICHARD,"$118,109.44",$501.96,Humber College,"Vice President, Academic",2000
-Colleges,BERGERON,CLAUDE,"$122,152.29",$654.50,La Cité collégiale,"Vice-président, Enseignement",2000
-Colleges,COUVILLON,DENISE,"$110,395.80",$365.82,La Cité collégiale,"Chef de service, Ser. à la client. Res. hum.",2000
-Colleges,HUBERT,DENIS,"$114,743.24",$482.70,La Cité collégiale,"VP, Administration et finances",2000
-Colleges,LEROUX,JEAN,"$105,263.96",$178.92,La Cité collégiale,VP Innovation et dével. des marchés,2000
-Colleges,LORTIE,ANDRÉE,"$132,898.14","$1,833.78",La Cité collégiale,Présidente,2000
+Colleges,BERGERON,CLAUDE,"$122,152.29",$654.50,La CitÃ© collÃ©giale,"Vice-prÃ©sident, Enseignement",2000
+Colleges,COUVILLON,DENISE,"$110,395.80",$365.82,La CitÃ© collÃ©giale,"Chef de service, Ser. Ã  la client. Res. hum.",2000
+Colleges,HUBERT,DENIS,"$114,743.24",$482.70,La CitÃ© collÃ©giale,"VP, Administration et finances",2000
+Colleges,LEROUX,JEAN,"$105,263.96",$178.92,La CitÃ© collÃ©giale,VP Innovation et dÃ©vel. des marchÃ©s,2000
+Colleges,LORTIE,ANDRÃ‰E,"$132,898.14","$1,833.78",La CitÃ© collÃ©giale,PrÃ©sidente,2000
 Colleges,BLUNDELL,TERRENCE J.,"$123,303.60","$13,733.71",Lambton College,President,2000
 Colleges,AULD,DOUGLAS A.,"$139,501.60","$7,647.44",Loyalist College,President,2000
 Colleges,ARBOUR,MONIQUE,"$116,750.27",$697.49,Mohawk College,"VP, Finance and Administration",2000
@@ -1280,7 +1280,7 @@ Hospitals,BETIK,JERRY,"$107,499.81",$0.00,Mattawa General Hospital,Executive Dir
 Hospitals,CARLIER,DR. MAUREEN,"$154,425.14",$757.15,Montfort,Pathologist,2000
 Hospitals,JOYAL,MARC,"$107,366.22","$4,329.24",Montfort,"VP, Business Administration & Fin.",2000
 Hospitals,PLANTE,DIANE,"$101,151.87","$1,250.58",Montfort,"Vice-President, Clinical Services",2000
-Hospitals,SAVOIE,GÉRALD R.,"$173,180.47","$12,770.78",Montfort,President & CEO,2000
+Hospitals,SAVOIE,GÃ‰RALD R.,"$173,180.47","$12,770.78",Montfort,President & CEO,2000
 Hospitals,ANDRULIS,IRENE,"$122,005.00",$352.00,Mount Sinai Hospital,Researcher,2000
 Hospitals,ASA,SYLVIA,"$130,243.72",$839.58,Mount Sinai Hospital,Lab Physician,2000
 Hospitals,BANACK,JEANNINE,"$173,894.06","$8,833.77",Mount Sinai Hospital,Vice President,2000
@@ -1393,7 +1393,7 @@ Hospitals,SAINT-JEAN,DENIS,"$126,424.14","$10,479.60","Ottawa Hospital, The",Vic
 Hospitals,SENGAR,DR. DHARMENDRA,"$111,140.10",$329.54,"Ottawa Hospital, The",Laboratory Scientist,2000
 Hospitals,SILVER,DR. STEPHEN,"$184,365.74",$527.68,"Ottawa Hospital, The",Lab. Physician,2000
 Hospitals,SIMON,VICTOR,"$160,462.48","$10,528.72","Ottawa Hospital, The",COO and Vice-President,2000
-Hospitals,TASSÉ,BRENDA,"$108,953.40",$381.54,"Ottawa Hospital, The","Director, Technical Support",2000
+Hospitals,TASSÃ‰,BRENDA,"$108,953.40",$381.54,"Ottawa Hospital, The","Director, Technical Support",2000
 Hospitals,THOMPSON,PETER,"$142,094.23","$10,501.77","Ottawa Hospital, The",Vice-President,2000
 Hospitals,WILSON,RICHARD,"$153,720.88","$10,522.87","Ottawa Hospital, The",Vice-President,2000
 Hospitals,KOCH,LLOYD,"$117,165.10",$790.20,Pembroke General Hospital Inc.,President and CEO,2000
@@ -1605,7 +1605,7 @@ Hospitals,KONDRAT,TERRY,"$141,215.21","$1,223.94",St. Thomas Elgin General Hospi
 Hospitals,MAZZA,MICHAEL,"$124,615.00",$616.00,Strathroy Middlesex General Hospital,CEO,2000
 Hospitals,BOYLE,DR. DAVID,"$149,644.24",$567.48,Sudbury Regional Hospital,Chief of Staff,2000
 Hospitals,BRONICHESKI,DAVID,"$114,129.11","$4,894.20",Sudbury Regional Hospital,Vice President & Chief Financial Officer,2000
-Hospitals,CÔTÉ,DR. GILBERT,"$133,487.46",$526.68,Sudbury Regional Hospital,Medical Geneticist,2000
+Hospitals,CÃ”TÃ‰,DR. GILBERT,"$133,487.46",$526.68,Sudbury Regional Hospital,Medical Geneticist,2000
 Hospitals,DE MORA,JOSEPH,"$179,084.47","$5,646.95",Sudbury Regional Hospital,President and CEO,2000
 Hospitals,KAMINSKI,VICTORIA,"$156,460.90","$4,775.33",Sudbury Regional Hospital,President and CEO,2000
 Hospitals,MACLELLAN,SR. BONNIE,"$140,945.68","$5,945.88",Sudbury Regional Hospital,"President & CEO, St. Joseph's Health Ctr",2000
@@ -6898,12 +6898,12 @@ Other Public Sector Employers,BLACK,WILLIAM,"$123,119.04","$2,507.62",Central To
 Other Public Sector Employers,JHIRAD,REUVEN,"$123,119.04","$2,632.07",Central Toronto Community Hlth Ctrs,Physician,2000
 Other Public Sector Employers,JOHAL,MALKIT,"$123,119.04","$2,507.62",Central Toronto Community Hlth Ctrs,Physician,2000
 Other Public Sector Employers,SAKULS,PETER,"$104,556.18","$2,507.62",Central Toronto Community Hlth Ctrs,Physician,2000
-Other Public Sector Employers,BRUNET,CLAIRE-LUCIE,"$136,673.65","$4,100.14",Centre de Santé Comm. de Sudbury,Physician,2000
-Other Public Sector Employers,FRENETTE,LUCIE,"$135,826.60","$4,597.12",Centre de Santé Comm. de Sudbury,Physician,2000
-Other Public Sector Employers,LEROUX,NATHALIE,"$129,809.52","$3,816.23",Centre de santé comm. HWN,médecin,2000
-Other Public Sector Employers,TITTLEY,CAMILLE,"$122,592.38","$4,408.42",Centre de santé comm. HWN,médecin,2000
-Other Public Sector Employers,HAMBOYAN,HERAG,"$119,552.94","$4,452.92",Centre médico social communautaire,médecin,2000
-Other Public Sector Employers,ROMANIUK,MARY,"$124,438.00","$4,528.00",Centre médico social communautaire,médecin,2000
+Other Public Sector Employers,BRUNET,CLAIRE-LUCIE,"$136,673.65","$4,100.14",Centre de SantÃ© Comm. de Sudbury,Physician,2000
+Other Public Sector Employers,FRENETTE,LUCIE,"$135,826.60","$4,597.12",Centre de SantÃ© Comm. de Sudbury,Physician,2000
+Other Public Sector Employers,LEROUX,NATHALIE,"$129,809.52","$3,816.23",Centre de santÃ© comm. HWN,mÃ©decin,2000
+Other Public Sector Employers,TITTLEY,CAMILLE,"$122,592.38","$4,408.42",Centre de santÃ© comm. HWN,mÃ©decin,2000
+Other Public Sector Employers,HAMBOYAN,HERAG,"$119,552.94","$4,452.92",Centre mÃ©dico social communautaire,mÃ©decin,2000
+Other Public Sector Employers,ROMANIUK,MARY,"$124,438.00","$4,528.00",Centre mÃ©dico social communautaire,mÃ©decin,2000
 Other Public Sector Employers,JENNER,JULIE,"$117,714.79",$517.84,Centretown CHC,Physician,2000
 Other Public Sector Employers,MUSTARD,CHARLES,"$122,779.52",$520.78,Centretown CHC,Physician,2000
 Other Public Sector Employers,MCNAMARA,MARTIN,"$111,584.00","$7,248.00",Children & Family Srvcs-York Region,Executive Director,2000
@@ -7081,7 +7081,7 @@ Other Public Sector Employers,GORRIVEAU,MICHAEL,"$152,676.00",$837.00,Renfrew Co
 Other Public Sector Employers,JAIN,NEETA,"$108,346.74","$5,380.31",Rexdale Community Health Centre,Family Physician,2000
 Other Public Sector Employers,BOURRIER,ROBERT,"$122,735.20","$7,514.88",Sandy Hill CHC,Physician,2000
 Other Public Sector Employers,PARENT,LORNE,"$122,735.20","$7,514.88",Sandy Hill CHC,Physician,2000
-Other Public Sector Employers,TAYLOR,JANE,"$104,779.04",$650.59,Services de santé de Chap.Hlth Srvcs,CEO,2000
+Other Public Sector Employers,TAYLOR,JANE,"$104,779.04",$650.59,Services de santÃ© de Chap.Hlth Srvcs,CEO,2000
 Other Public Sector Employers,HILLIER,DAVID,"$138,360.00","$14,096.00",Shepherd Village Inc.,President and CEO,2000
 Other Public Sector Employers,PASUT,GEORGE,"$151,265.43",$607.58,Simcoe County District Health Unit,Medical Officer of Health/CEO,2000
 Other Public Sector Employers,GIRARD,LOUIS,"$123,795.72","$4,000.08",South Riverdale CHC,Physician,2000
@@ -7273,39 +7273,39 @@ School Boards,GREFFE,GORDON,"$113,150.15",$709.16,Catholic DSB of Eastern Ontari
 School Boards,HAWES,DONALEEN,"$104,509.18",$615.30,Catholic DSB of Eastern Ontario,Superintendent of Education,2000
 School Boards,LYDON,KEVIN,"$115,548.82",$729.17,Catholic DSB of Eastern Ontario,Deputy Dir./Super.of Education,2000
 School Boards,MCNALLY,GREGORY,"$117,573.33",$767.64,Catholic DSB of Eastern Ontario,"Dir.Education, Sec.of the Bd.",2000
-School Boards,CHARTRAND,DENIS,"$117,751.12",$559.09,CEP de l'Est de l'Ont.,Directeur de l'éducation et sec.-trés.,2000
+School Boards,CHARTRAND,DENIS,"$117,751.12",$559.09,CEP de l'Est de l'Ont.,Directeur de l'Ã©ducation et sec.-trÃ©s.,2000
 School Boards,MASSOUH,ISSAM,"$101,778.34",$515.16,CEP de l'Est de l'Ont.,Surintendant des ecoles,2000
-School Boards,BOYER,RAYMOND,"$115,091.92","$5,463.62",CSBD du Nouvel-Ontario,Surintendant de l'éducation,2000
-School Boards,BERNARD,JEAN-LUC,"$120,397.45",$518.40,CSD Centre Sud-Ouest,Surintendant de l'éducation,2000
+School Boards,BOYER,RAYMOND,"$115,091.92","$5,463.62",CSBD du Nouvel-Ontario,Surintendant de l'Ã©ducation,2000
+School Boards,BERNARD,JEAN-LUC,"$120,397.45",$518.40,CSD Centre Sud-Ouest,Surintendant de l'Ã©ducation,2000
 School Boards,D'AMOUR,LOUISE,"$111,959.35",$654.32,CSD Centre Sud-Ouest,Surintendant,2000
-School Boards,DUCHARME,ALICE,"$147,803.22",$534.94,CSD Centre Sud-Ouest,Directrice de l'éducation,2000
-School Boards,DIONNE,MARC,"$128,335.00",$562.00,CSD Grand Nord de l'Ontario,Directeur général,2000
+School Boards,DUCHARME,ALICE,"$147,803.22",$534.94,CSD Centre Sud-Ouest,Directrice de l'Ã©ducation,2000
+School Boards,DIONNE,MARC,"$128,335.00",$562.00,CSD Grand Nord de l'Ontario,Directeur gÃ©nÃ©ral,2000
 School Boards,LOZIER,DIANE,"$107,031.00",$458.00,CSD Grand Nord de l'Ontario,Surintendante,2000
 School Boards,BOUTIN,PIERRE,"$103,548.84",$886.55,CSDC Centre-Est de l'Ontario,Surintendant,2000
-School Boards,FILIATRAULT,PIERRE,"$109,602.96","$4,774.76",CSDC Centre-Est de l'Ontario,Surintendant administratif et trésorier,2000
+School Boards,FILIATRAULT,PIERRE,"$109,602.96","$4,774.76",CSDC Centre-Est de l'Ontario,Surintendant administratif et trÃ©sorier,2000
 School Boards,GALARNEAU,GILLES,"$103,293.07",$884.49,CSDC Centre-Est de l'Ontario,Surintendant,2000
-School Boards,GODBOUT,MARC,"$131,558.30","$7,113.09",CSDC Centre-Est de l'Ontario,"Dir.,de l'éduc. et secrétaire du Conseil",2000
-School Boards,LAFOREST,PAULETTE,"$123,352.60",$48.33,CSDC Centre-Sud,Surint. des écoles sec. et des serv.péd.,2000
-School Boards,LAVICTOIRE,FRANÇOIS,"$127,684.35",$280.65,CSDC Centre-Sud,Surintendant des écoles élémentaires,2000
-School Boards,BERTRAND,FRANÇOIS,"$101,049.02",$550.80,CSDC de l'Est Ontarien,Surintendant des affaires et trésorier,2000
+School Boards,GODBOUT,MARC,"$131,558.30","$7,113.09",CSDC Centre-Est de l'Ontario,"Dir.,de l'Ã©duc. et secrÃ©taire du Conseil",2000
+School Boards,LAFOREST,PAULETTE,"$123,352.60",$48.33,CSDC Centre-Sud,Surint. des Ã©coles sec. et des serv.pÃ©d.,2000
+School Boards,LAVICTOIRE,FRANÃ‡OIS,"$127,684.35",$280.65,CSDC Centre-Sud,Surintendant des Ã©coles Ã©lÃ©mentaires,2000
+School Boards,BERTRAND,FRANÃ‡OIS,"$101,049.02",$550.80,CSDC de l'Est Ontarien,Surintendant des affaires et trÃ©sorier,2000
 School Boards,LEGAULT,JEAN-JACQUES,"$101,049.02",$554.88,CSDC de l'Est Ontarien,Surintendant pedagogique,2000
-School Boards,VAILLANCOURT,DENIS,"$125,048.84",$673.20,CSDC de l'Est Ontarien,Directeur de l'éducation et secrétaire,2000
-School Boards,THIBOUTOT-DEBNAM,JOANNE,"$107,672.17",$187.20,CSDC des Aurores-Boréales,Directrice de l'édu.et secretaire-tresor,2000
-School Boards,CANTIN,LEO-RENE,"$112,906.87","$5,382.50",CSDC du Nouvel-Ontario,Surintendant de l'éducation,2000
-School Boards,CHAYER,HELENE,"$130,212.09","$5,479.42",CSDC du Nouvel-Ontario,Directrice de l'éducation,2000
+School Boards,VAILLANCOURT,DENIS,"$125,048.84",$673.20,CSDC de l'Est Ontarien,Directeur de l'Ã©ducation et secrÃ©taire,2000
+School Boards,THIBOUTOT-DEBNAM,JOANNE,"$107,672.17",$187.20,CSDC des Aurores-BorÃ©ales,Directrice de l'Ã©du.et secretaire-tresor,2000
+School Boards,CANTIN,LEO-RENE,"$112,906.87","$5,382.50",CSDC du Nouvel-Ontario,Surintendant de l'Ã©ducation,2000
+School Boards,CHAYER,HELENE,"$130,212.09","$5,479.42",CSDC du Nouvel-Ontario,Directrice de l'Ã©ducation,2000
 School Boards,MONTPELLIER,ROLAND,"$104,115.43","$5,394.46",CSDC du Nouvel-Ontario,Surintendant d'affaires et de finances,2000
-School Boards,BELANGER,PAUL,"$109,695.47",$863.24,CSDC du Sud-Ouest,Surintendante de l'éducation,2000
-School Boards,GRIFFORE,JANINE,"$109,695.47",$863.24,CSDC du Sud-Ouest,Surintendant de l'éducation,2000
+School Boards,BELANGER,PAUL,"$109,695.47",$863.24,CSDC du Sud-Ouest,Surintendante de l'Ã©ducation,2000
+School Boards,GRIFFORE,JANINE,"$109,695.47",$863.24,CSDC du Sud-Ouest,Surintendant de l'Ã©ducation,2000
 School Boards,GROULX,GEORGES,"$109,695.47",$863.24,CSDC du Sud-Ouest,Surintendant des affaires,2000
-School Boards,SERRE,MICHEL,"$126,901.60","$9,087.26",CSDC du Sud-Ouest,Directeur général,2000
-School Boards,CRÉPEAU,FERNAND,"$100,000.00",$600.80,CSDC Franco-Nord,Surintendant,2000
-School Boards,GADOURY,LISE,"$114,000.00",$684.91,CSDC Franco-Nord,Directrice de l'éducation,2000
-School Boards,AINSWORTH,ALPHONSE,"$103,720.00","$1,971.00",CSDC Grandes Rivières,Agent de supervision,2000
-School Boards,DEMERS,BERNARD,"$103,184.00","$1,435.00",CSDC Grandes Rivières,Gerant du service des ressources hum.,2000
-School Boards,GRISE,JEAN,"$117,137.00","$3,946.00",CSDC Grandes Rivières,Directeur de l'éducation,2000
-School Boards,KOSCIELNIAK,HELENE,"$103,720.00","$1,971.00",CSDC Grandes Rivières,Agente de supervision,2000
-School Boards,LAFOREST,LILIANE,"$103,720.00","$1,971.00",CSDC Grandes Rivières,Agente de supervision,2000
-School Boards,SCHRYBURT,JEAN-LOUIS,"$103,720.00","$1,971.00",CSDC Grandes Rivières,Agent de supervision,2000
+School Boards,SERRE,MICHEL,"$126,901.60","$9,087.26",CSDC du Sud-Ouest,Directeur gÃ©nÃ©ral,2000
+School Boards,CRÃ‰PEAU,FERNAND,"$100,000.00",$600.80,CSDC Franco-Nord,Surintendant,2000
+School Boards,GADOURY,LISE,"$114,000.00",$684.91,CSDC Franco-Nord,Directrice de l'Ã©ducation,2000
+School Boards,AINSWORTH,ALPHONSE,"$103,720.00","$1,971.00",CSDC Grandes RiviÃ¨res,Agent de supervision,2000
+School Boards,DEMERS,BERNARD,"$103,184.00","$1,435.00",CSDC Grandes RiviÃ¨res,Gerant du service des ressources hum.,2000
+School Boards,GRISE,JEAN,"$117,137.00","$3,946.00",CSDC Grandes RiviÃ¨res,Directeur de l'Ã©ducation,2000
+School Boards,KOSCIELNIAK,HELENE,"$103,720.00","$1,971.00",CSDC Grandes RiviÃ¨res,Agente de supervision,2000
+School Boards,LAFOREST,LILIANE,"$103,720.00","$1,971.00",CSDC Grandes RiviÃ¨res,Agente de supervision,2000
+School Boards,SCHRYBURT,JEAN-LOUIS,"$103,720.00","$1,971.00",CSDC Grandes RiviÃ¨res,Agent de supervision,2000
 School Boards,CLAPP,MATILDA,"$103,497.25",$745.44,DSB Niagara,Superintendent of Schools,2000
 School Boards,COLLINS,PAUL,"$105,458.78",$758.96,DSB Niagara,Superintendent of Schools,2000
 School Boards,CROSS,WAYNE,"$105,458.78",$666.80,DSB Niagara,Superintendent of Schools,2000
@@ -8510,7 +8510,7 @@ Universities,GAUTHIER,ROGER R,"$100,236.00",$77.00,University of Ottawa,Prof. ; 
 Universities,GELFAND,TOBY,"$107,394.00",$77.00,University of Ottawa,Prof. ; Directeur - Chair,2000
 Universities,GEORGANAS,NICOLAS,"$110,701.11",$77.00,University of Ottawa,Professeur - Professor,2000
 Universities,GRANDBOIS,DARRYL A,"$129,098.65","$1,644.00",University of Ottawa,Conseiller Juridique - Legal Counsel,2000
-Universities,GREENE,RICHARD L,"$114,638.40",$77.00,University of Ottawa,Bibliothècaire en Chef - Chief Librarian,2000
+Universities,GREENE,RICHARD L,"$114,638.40",$77.00,University of Ottawa,BibliothÃ¨caire en Chef - Chief Librarian,2000
 Universities,HAMELIN,MARCEL,"$185,204.76","$8,445.29",University of Ottawa,Recteur - Rector,2000
 Universities,HANDELMAN,DAVID,"$104,544.00",$77.00,University of Ottawa,Professeur - Professor,2000
 Universities,HENAULT,GEORGES M,"$110,507.04",$77.00,University of Ottawa,Prof. ; Doyen Assoc. - Assoc. Dean,2000

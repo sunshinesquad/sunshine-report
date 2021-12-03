@@ -1,4 +1,4 @@
-,,,"Ontario [Province]",,,,,,"Canada [Country]"
+ï»¿,,,"Ontario [Province]",,,,,,"Canada [Country]"
 "Topic","Characteristics","Note","Total","Flag_Total","Male","Flag_Male","Female","Flag_Female","Total","Flag_Total","Male","Flag_Male","Female","Flag_Female"
 ,,,"Counts (unless otherwise specified)",,,,,,
 "Population and dwellings","Population; 2016",1,13448494,,,...,,...,35151728,,,...,,...
@@ -750,7 +750,7 @@
 "Income of households in 2015","    Total - Income statistics in 2015 for two-or-more-person private households - 100% data",, 3827875,,,...,,...,10102290,,,...,,...
 "Income of households in 2015","      Median total income of two-or-more-person households in 2015 ($)",,   90967,,,...,,...,   88249,,,...,,...
 "Income of households in 2015","      Median after-tax income of two-or-more-person households in 2015 ($)",,   79528,,,...,,...,   76419,,,...,,...
-"Income of households in 2015","Total - Income statistics in 2015 for private households by household size - 25% sample data",35, 5169175,,,...,,...,14072075,,,...,,...
+"Income of households in 2015","Total - Income statistics in 2015Â for private households by household size - 25% sampleÂ data",35, 5169175,,,...,,...,14072075,,,...,,...
 "Income of households in 2015","  Average total income of households in 2015 ($)",,   97856,,,...,,...,   92764,,,...,,...
 "Income of households in 2015","  Average after-tax income of households in 2015 ($)",,   80322,,,...,,...,   76171,,,...,,...
 "Income of households in 2015","    Total - Income statistics in 2015 for one-person private households - 25% sample data",, 1341115,,,...,,..., 3967765,,,...,,...
@@ -1242,7 +1242,7 @@
 "Recent immigrants by selected places of birth","    Algeria",,     415,,     180,,     240,,   17175,,    8440,,    8735,
 "Recent immigrants by selected places of birth","    Cameroon",,    1390,,     640,,     750,,   10265,,    5005,,    5255,
 "Recent immigrants by selected places of birth","    Congo; Democratic Republic of the",,    1835,,     845,,     990,,    7400,,    3570,,    3835,
-"Recent immigrants by selected places of birth","    Côte d'Ivoire",,     605,,     245,,     360,,    6240,,    3030,,    3210,
+"Recent immigrants by selected places of birth","    CÃ´te d'Ivoire",,     605,,     245,,     360,,    6240,,    3030,,    3210,
 "Recent immigrants by selected places of birth","    Egypt",,    8220,,    4290,,    3935,,   16115,,    8445,,    7665,
 "Recent immigrants by selected places of birth","    Eritrea",,    2055,,    1010,,    1045,,    6050,,    3195,,    2855,
 "Recent immigrants by selected places of birth","    Ethiopia",,    2505,,    1115,,    1385,,    7510,,    3625,,    3890,
@@ -1293,7 +1293,7 @@
 "Aboriginal population","  Aboriginal identity",80,  374395,,  179970,,  194420,, 1673785,,  813520,,  860265,
 "Aboriginal population","    Single Aboriginal responses",81,  361125,,  173685,,  187445,, 1629805,,  792970,,  836835,
 "Aboriginal population","      First Nations (North American Indian)",82,  236680,,  112840,,  123845,,  977235,,  471510,,  505725,
-"Aboriginal population","      Métis",,  120585,,   59015,,   61570,,  587545,,  289435,,  298115,
+"Aboriginal population","      MÃ©tis",,  120585,,   59015,,   61570,,  587545,,  289435,,  298115,
 "Aboriginal population","      Inuk (Inuit)",,    3860,,    1835,,    2030,,   65030,,   32030,,   32995,
 "Aboriginal population","    Multiple Aboriginal responses",83,    5730,,    2680,,    3045,,   21310,,   10165,,   11145,
 "Aboriginal population","    Aboriginal responses not included elsewhere",84,    7540,,    3615,,    3930,,   22670,,   10385,,   12290,
@@ -1305,23 +1305,23 @@
 "Aboriginal population","  Aboriginal ancestry (only)",88,  112875,,   54840,,   58035,,  727790,,  356970,,  370815,
 "Aboriginal population","    Single Aboriginal ancestry (only)",89,  111575,,   54180,,   57395,,  709235,,  347985,,  361245,
 "Aboriginal population","      First Nations (North American Indian) single ancestry",82,   97430,,   47130,,   50305,,  573215,,  280040,,  293180,
-"Aboriginal population","      Métis single ancestry",,   12925,,    6490,,    6435,,   91255,,   45740,,   45515,
+"Aboriginal population","      MÃ©tis single ancestry",,   12925,,    6490,,    6435,,   91255,,   45740,,   45515,
 "Aboriginal population","      Inuit single ancestry",,    1220,,     565,,     655,,   44765,,   22210,,   22555,
 "Aboriginal population","    Multiple Aboriginal ancestries (only)",90,    1295,,     665,,     640,,   18555,,    8985,,    9565,
-"Aboriginal population","      First Nations (North American Indian) and Métis ancestries",,    1055,,     545,,     510,,   15140,,    7305,,    7835,
+"Aboriginal population","      First Nations (North American Indian) and MÃ©tis ancestries",,    1055,,     545,,     510,,   15140,,    7305,,    7835,
 "Aboriginal population","      First Nations (North American Indian) and Inuit ancestries",,     145,,      70,,      75,,    2470,,    1205,,    1265,
-"Aboriginal population","      Métis and Inuit ancestries",,      65,,      25,,      40,,     770,,     390,,     380,
-"Aboriginal population","      First Nations (North American Indian); Métis and Inuit ancestries",,      30,,      20,,      10,,     170,,      85,,      85,
+"Aboriginal population","      MÃ©tis and Inuit ancestries",,      65,,      25,,      40,,     770,,     390,,     380,
+"Aboriginal population","      First Nations (North American Indian); MÃ©tis and Inuit ancestries",,      30,,      20,,      10,,     170,,      85,,      85,
 "Aboriginal population","  Aboriginal and non-Aboriginal ancestries",91,  405425,,  192320,,  213100,, 1402735,,  669710,,  733025,
 "Aboriginal population","    Single Aboriginal and non-Aboriginal ancestries",92,  395205,,  187695,,  207510,, 1347610,,  644210,,  703400,
 "Aboriginal population","      First Nations (North American Indian) and non-Aboriginal ancestries",,  276920,,  130810,,  146110,,  881455,,  418215,,  463235,
-"Aboriginal population","      Métis and non-Aboriginal ancestries",,  113785,,   54830,,   58955,,  441000,,  213940,,  227065,
+"Aboriginal population","      MÃ©tis and non-Aboriginal ancestries",,  113785,,   54830,,   58955,,  441000,,  213940,,  227065,
 "Aboriginal population","      Inuit and non-Aboriginal ancestries",,    4500,,    2050,,    2450,,   25155,,   12045,,   13105,
 "Aboriginal population","    Multiple Aboriginal and non-Aboriginal ancestries",93,   10215,,    4620,,    5590,,   55125,,   25505,,   29625,
-"Aboriginal population","      First Nations (North American Indian); Métis and non-Aboriginal ancestries",,    9305,,    4205,,    5100,,   49325,,   22740,,   26585,
+"Aboriginal population","      First Nations (North American Indian); MÃ©tis and non-Aboriginal ancestries",,    9305,,    4205,,    5100,,   49325,,   22740,,   26585,
 "Aboriginal population","      First Nations (North American Indian); Inuit and non-Aboriginal ancestries",,     595,,     290,,     305,,    3470,,    1655,,    1815,
-"Aboriginal population","      Métis; Inuit and non-Aboriginal ancestries",,     300,,     125,,     170,,    2005,,     940,,    1065,
-"Aboriginal population","      First Nations (North American Indian); Métis; Inuit and non-Aboriginal ancestries",,      15,,       0,,      10,,     325,,     170,,     160,
+"Aboriginal population","      MÃ©tis; Inuit and non-Aboriginal ancestries",,     300,,     125,,     170,,    2005,,     940,,    1065,
+"Aboriginal population","      First Nations (North American Indian); MÃ©tis; Inuit and non-Aboriginal ancestries",,      15,,       0,,      10,,     325,,     170,,     160,
 "Aboriginal population","  Non-Aboriginal ancestry (only)",94,12723865,, 6225080,, 6498785,,32329545,,15944900,,16384645,
 "Visible minority population","Total - Visible minority for the population in private households - 25% sample data",95,13242160,, 6472240,, 6769920,,34460065,,16971575,,17488485,
 "Visible minority population","  Total visible minority population",96, 3885585,, 1878075,, 2007505,, 7674580,, 3725090,, 3949495,
@@ -1342,7 +1342,7 @@
 "Ethnic origin population","  North American Aboriginal origins",,  518300,,  247160,,  271135,, 2130520,, 1026675,, 1103840,
 "Ethnic origin population","    First Nations (North American Indian)",,  385505,,  183075,,  202430,, 1525570,,  731410,,  794155,
 "Ethnic origin population","    Inuit",,    6870,,    3150,,    3720,,   79130,,   38695,,   40435,
-"Ethnic origin population","    Métis",,  137485,,   66245,,   71235,,  599995,,  291310,,  308690,
+"Ethnic origin population","    MÃ©tis",,  137485,,   66245,,   71235,,  599995,,  291310,,  308690,
 "Ethnic origin population","  Other North American origins",, 3220595,, 1585255,, 1635340,,11628535,, 5745695,, 5882835,
 "Ethnic origin population","    Acadian",,   16580,,    8135,,    8450,,  119675,,   57805,,   61865,
 "Ethnic origin population","    American",,  140165,,   67480,,   72690,,  377405,,  182690,,  194715,
@@ -1351,7 +1351,7 @@
 "Ethnic origin population","    Newfoundlander",,   10850,,    5520,,    5325,,   22215,,   11420,,   10800,
 "Ethnic origin population","    Nova Scotian",,    1485,,     685,,     800,,    3700,,    1770,,    1930,
 "Ethnic origin population","    Ontarian",,    2165,,    1085,,    1075,,    3925,,    1980,,    1945,
-"Ethnic origin population","    Québécois",,    5390,,    2730,,    2665,,  194560,,   99320,,   95235,
+"Ethnic origin population","    QuÃ©bÃ©cois",,    5390,,    2730,,    2665,,  194560,,   99320,,   95235,
 "Ethnic origin population","    Other North American origins; n.i.e.",104,     675,,     375,,     300,,    1895,,     950,,     945,
 "Ethnic origin population","  European origins",, 8151470,, 3978900,, 4172570,,19683320,, 9687715,, 9995605,
 "Ethnic origin population","    British Isles origins",, 4900430,, 2380595,, 2519835,,11211850,, 5474735,, 5737115,
@@ -1493,7 +1493,7 @@
 "Ethnic origin population","      Ivorian",,    1350,,     600,,     745,,   10935,,    5485,,    5450,
 "Ethnic origin population","      Liberian",,     770,,     365,,     405,,    2485,,    1130,,    1360,
 "Ethnic origin population","      Malian",,     490,,     250,,     240,,    4490,,    2280,,    2210,
-"Ethnic origin population","      Malinké",,     345,,     160,,     185,,    1125,,     585,,     535,
+"Ethnic origin population","      MalinkÃ©",,     345,,     160,,     185,,    1125,,     585,,     535,
 "Ethnic origin population","      Nigerian",,   26560,,   13620,,   12940,,   51835,,   27025,,   24805,
 "Ethnic origin population","      Peulh",,     135,,      80,,      55,,    2435,,    1270,,    1170,
 "Ethnic origin population","      Senegalese",,    1000,,     500,,     495,,   10175,,    5500,,    4670,
@@ -2323,18 +2323,18 @@ Notes:
 ,    *income from investment sources  such as dividends and interest on bonds  accounts  guaranteed investment certificates (GICs) and mutual funds;
 ,    *income from employer and personal pension sources  such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 ,    *other regular cash income  such as child support payments received  spousal support payments (alimony) received and scholarships;
-,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  Canada Pension Plan and Québec Pension Plan benefits and disability income.
+,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  Canada Pension Plan and QuÃ©bec Pension Plan benefits and disability income.
 ,Receipts excluded from this income definition are:
 ,    *one-time receipts  such as lottery winnings  gambling winnings  cash inheritances  lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 ,    *capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-,    *employers' contributions to registered pension plans  Canada Pension Plan  Québec Pension Plan and Employment Insurance;
+,    *employers' contributions to registered pension plans  Canada Pension Plan  QuÃ©bec Pension Plan and Employment Insurance;
 ,    *voluntary inter-household transfers  imputed rent  goods and services produced for barter and goods produced for own consumption.
 ,After-tax income - Total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes  provincial and territorial income taxes  less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
 ,Market income - The sum of employment income (wages  salaries and commissions  net self-employment income from farm or non-farm unincorporated business and/or professional practice)  investment income  private retirement income (retirement pensions  superannuation and annuities  including those from registered retirement savings plans [RRSPs] and registered retirement income funds [RRIFs]) and other money income from market sources during the reference period. It is equivalent to total income minus government transfers. It is also referred to as income before transfers and taxes.
 ,Government transfers - All cash benefits received from federal  provincial  territorial or municipal governments during the reference period. It includes:
 ,    *Old Age Security pension  Guaranteed Income Supplement  Allowance or Allowance for the Survivor;
-,    *retirement  disability and survivor benefits from Canada Pension Plan and Québec Pension Plan;
-,    *benefits from Employment Insurance and Québec parental insurance plan;
+,    *retirement  disability and survivor benefits from Canada Pension Plan and QuÃ©bec Pension Plan;
+,    *benefits from Employment Insurance and QuÃ©bec parental insurance plan;
 ,    *child benefits from federal and provincial programs;
 ,    *social assistance benefits;
 ,    *workers' compensation benefits;
@@ -2357,18 +2357,18 @@ Notes:
 ,    *income from investment sources  such as dividends and interest on bonds  accounts  guaranteed investment certificates (GICs) and mutual funds;
 ,    *income from employer and personal pension sources  such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 ,    *other regular cash income  such as child support payments received  spousal support payments (alimony) received and scholarships;
-,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  Canada Pension Plan and Québec Pension Plan benefits and disability income.
+,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  Canada Pension Plan and QuÃ©bec Pension Plan benefits and disability income.
 ,Receipts excluded from this income definition are:
 ,    *one-time receipts  such as lottery winnings  gambling winnings  cash inheritances  lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 ,    *capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-,    *employers' contributions to registered pension plans  Canada Pension Plan  Québec Pension Plan and Employment Insurance;
+,    *employers' contributions to registered pension plans  Canada Pension Plan  QuÃ©bec Pension Plan and Employment Insurance;
 ,    *voluntary inter-household transfers  imputed rent  goods and services produced for barter and goods produced for own consumption.
 ,After-tax income - Total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes  provincial and territorial income taxes  less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
 ,Market income - The sum of employment income (wages  salaries and commissions  net self-employment income from farm or non-farm unincorporated business and/or professional practice)  investment income  private retirement income (retirement pensions  superannuation and annuities  including those from registered retirement savings plans [RRSPs] and registered retirement income funds [RRIFs]) and other money income from market sources during the reference period. It is equivalent to total income minus government transfers. It is also referred to as income before transfers and taxes.
 ,Government transfers - All cash benefits received from federal  provincial  territorial or municipal governments during the reference period. It includes:
 ,    *Old Age Security pension  Guaranteed Income Supplement  Allowance or Allowance for the Survivor;
-,    *retirement  disability and survivor benefits from Canada Pension Plan and Québec Pension Plan;
-,    *benefits from Employment Insurance and Québec parental insurance plan;
+,    *retirement  disability and survivor benefits from Canada Pension Plan and QuÃ©bec Pension Plan;
+,    *benefits from Employment Insurance and QuÃ©bec parental insurance plan;
 ,    *child benefits from federal and provincial programs;
 ,    *social assistance benefits;
 ,    *workers' compensation benefits;
@@ -2393,8 +2393,8 @@ Notes:
 ,For the 2016 Census  the reference period is the calendar year 2015 for all income variables.
 30, Government transfers - All cash benefits received from federal  provincial  territorial or municipal governments during the reference period. It includes:
 ,    *Old Age Security pension  Guaranteed Income Supplement  Allowance or Allowance for the Survivor;
-,    *retirement  disability and survivor benefits from Canada Pension Plan and Québec Pension Plan;
-,    *benefits from Employment Insurance and Québec parental insurance plan;
+,    *retirement  disability and survivor benefits from Canada Pension Plan and QuÃ©bec Pension Plan;
+,    *benefits from Employment Insurance and QuÃ©bec parental insurance plan;
 ,    *child benefits from federal and provincial programs;
 ,    *social assistance benefits;
 ,    *workers' compensation benefits;
@@ -2415,11 +2415,11 @@ Notes:
 ,    *income from investment sources  such as dividends and interest on bonds  accounts  guaranteed investment certificates (GICs) and mutual funds;
 ,    *income from employer and personal pension sources  such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 ,    *other regular cash income  such as child support payments received  spousal support payments (alimony) received and scholarships;
-,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  Canada Pension Plan and Québec Pension Plan benefits and disability income.
+,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  Canada Pension Plan and QuÃ©bec Pension Plan benefits and disability income.
 ,Receipts excluded from this income definition are:
 ,    *one-time receipts  such as lottery winnings  gambling winnings  cash inheritances  lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 ,    *capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-,    *employers' contributions to registered pension plans  Canada Pension Plan  Québec Pension Plan and Employment Insurance;
+,    *employers' contributions to registered pension plans  Canada Pension Plan  QuÃ©bec Pension Plan and Employment Insurance;
 ,    *voluntary inter-household transfers  imputed rent  goods and services produced for barter and goods produced for own consumption.
 ,For the 2016 Census  the reference period is the calendar year 2015 for all income variables.
 32, After-tax income - After-tax income refers to total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes  provincial and territorial income taxes  less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
@@ -2439,11 +2439,11 @@ Notes:
 ,    *income from investment sources  such as dividends and interest on bonds  accounts  guaranteed investment certificates (GICs) and mutual funds;
 ,    *income from employer and personal pension sources  such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 ,    *other regular cash income  such as child support payments received  spousal support payments (alimony) received and scholarships;
-,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  Canada Pension Plan and Québec Pension Plan benefits and disability income.
+,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  Canada Pension Plan and QuÃ©bec Pension Plan benefits and disability income.
 ,Receipts excluded from this income definition are:
 ,    *one-time receipts  such as lottery winnings  gambling winnings  cash inheritances  lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 ,    *capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-,    *employers' contributions to registered pension plans  Canada Pension Plan  Québec Pension Plan and Employment Insurance;
+,    *employers' contributions to registered pension plans  Canada Pension Plan  QuÃ©bec Pension Plan and Employment Insurance;
 ,    *voluntary inter-household transfers  imputed rent  goods and services produced for barter and goods produced for own consumption.
 ,After-tax income - Total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes  provincial and territorial income taxes  less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
 ,For the 2016 Census  the reference period is the calendar year 2015 for all income variables.
@@ -2461,11 +2461,11 @@ Notes:
 ,     *income from investment sources  such as dividends and interest on bonds  accounts  guaranteed investment certificates (GICs) and mutual funds;
 ,    *income from employer and personal pension sources  such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 ,    *other regular cash income  such as child support payments received  spousal support payments (alimony) received and scholarships;
-,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  Canada Pension Plan and Québec Pension Plan benefits and disability income.
+,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  Canada Pension Plan and QuÃ©bec Pension Plan benefits and disability income.
 ,Receipts excluded from this income definition are:
 ,    *one-time receipts  such as lottery winnings  gambling winnings  cash inheritances  lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 ,    *capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-,    *employers' contributions to registered pension plans  Canada Pension Plan  Québec Pension Plan and Employment Insurance;
+,    *employers' contributions to registered pension plans  Canada Pension Plan  QuÃ©bec Pension Plan and Employment Insurance;
 ,    *voluntary inter-household transfers  imputed rent  goods and services produced for barter and goods produced for own consumption.
 ,After-tax income - Total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes  provincial and territorial income taxes  less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
 ,For the 2016 Census  the reference period is the calendar year 2015 for all income variables.
@@ -2483,11 +2483,11 @@ Notes:
 ,    *income from investment sources  such as dividends and interest on bonds  accounts  guaranteed investment certificates (GICs) and mutual funds;
 ,    *income from employer and personal pension sources  such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 ,    *other regular cash income  such as child support payments received  spousal support payments (alimony) received and scholarships;
-,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  Canada Pension Plan and Québec Pension Plan benefits and disability income.
+,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  Canada Pension Plan and QuÃ©bec Pension Plan benefits and disability income.
 ,Receipts excluded from this income definition are:
 ,    *one-time receipts  such as lottery winnings  gambling winnings  cash inheritances  lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 ,    *capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-,    *employers' contributions to registered pension plans  Canada Pension Plan  Québec Pension Plan and Employment Insurance;
+,    *employers' contributions to registered pension plans  Canada Pension Plan  QuÃ©bec Pension Plan and Employment Insurance;
 ,    *voluntary inter-household transfers  imputed rent  goods and services produced for barter and goods produced for own consumption.
 ,For the 2016 Census  the reference period is the calendar year 2015 for all income variables.
 37, Total income - The sum of certain incomes (in cash and  in some circumstances  in kind) of the statistical unit during a specified reference period. The components used to calculate total income vary between:
@@ -2503,11 +2503,11 @@ Notes:
 ,    *income from investment sources  such as dividends and interest on bonds  accounts  guaranteed investment certificates (GICs) and mutual funds;
 ,    *income from employer and personal pension sources  such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 ,    *other regular cash income  such as child support payments received  spousal support payments (alimony) received and scholarships;
-,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  Canada Pension Plan and Québec Pension Plan benefits and disability income.
+,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  Canada Pension Plan and QuÃ©bec Pension Plan benefits and disability income.
 ,Receipts excluded from this income definition are:
 ,    *one-time receipts  such as lottery winnings  gambling winnings  cash inheritances  lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 ,    *capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-,    *employers' contributions to registered pension plans  Canada Pension Plan  Québec Pension Plan and Employment Insurance;
+,    *employers' contributions to registered pension plans  Canada Pension Plan  QuÃ©bec Pension Plan and Employment Insurance;
 ,    *voluntary inter-household transfers  imputed rent  goods and services produced for barter and goods produced for own consumption.
 ,After-tax income - Total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes  provincial and territorial income taxes  less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
 ,For the 2016 Census  the reference period is the calendar year 2015 for all income variables.
@@ -2526,11 +2526,11 @@ Notes:
 ,    *income from investment sources  such as dividends and interest on bonds  accounts  guaranteed investment certificates (GICs) and mutual funds;
 ,    *income from employer and personal pension sources  such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 ,    *other regular cash income  such as child support payments received  spousal support payments (alimony) received and scholarships;
-,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  Canada Pension Plan and Québec Pension Plan benefits and disability income.
+,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  Canada Pension Plan and QuÃ©bec Pension Plan benefits and disability income.
 ,Receipts excluded from this income definition are:
 ,    *one-time receipts  such as lottery winnings  gambling winnings  cash inheritances  lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 ,    *capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-,    *employers' contributions to registered pension plans  Canada Pension Plan  Québec Pension Plan and Employment Insurance;
+,    *employers' contributions to registered pension plans  Canada Pension Plan  QuÃ©bec Pension Plan and Employment Insurance;
 ,    *voluntary inter-household transfers  imputed rent  goods and services produced for barter and goods produced for own consumption.
 ,After-tax income - Total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes  provincial and territorial income taxes  less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
 ,For the 2016 Census  the reference period is the calendar year 2015 for all income variables.
@@ -2550,11 +2550,11 @@ Notes:
 ,    *income from investment sources  such as dividends and interest on bonds  accounts  guaranteed investment certificates (GICs) and mutual funds;
 ,    *income from employer and personal pension sources  such as private pensions and payments from annuities and registered retirement income funds (RRIFs);
 ,    *other regular cash income  such as child support payments received  spousal support payments (alimony) received and scholarships;
-,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  Canada Pension Plan and Québec Pension Plan benefits and disability income.
+,    *income from government sources  such as social assistance  child benefits  Employment Insurance benefits  Old Age Security benefits  Canada Pension Plan and QuÃ©bec Pension Plan benefits and disability income.
 ,Receipts excluded from this income definition are:
 ,    *one-time receipts  such as lottery winnings  gambling winnings  cash inheritances  lump-sum insurance settlements and tax-free savings account (TFSA) or registered retirement savings plan (RRSP) withdrawals;
 ,    *capital gains because they are not by their nature regular and recurring. It is further assumed that they are more relevant to the concept of wealth than the concept of income;
-,    *employers' contributions to registered pension plans  Canada Pension Plan  Québec Pension Plan and Employment Insurance;
+,    *employers' contributions to registered pension plans  Canada Pension Plan  QuÃ©bec Pension Plan and Employment Insurance;
 ,    *voluntary inter-household transfers  imputed rent  goods and services produced for barter and goods produced for own consumption.
 ,After-tax income - Total income less income taxes of the statistical unit during a specified reference period. Income taxes refers to the sum of federal income taxes  provincial and territorial income taxes  less abatement where applicable. Provincial and territorial income taxes include health care premiums in certain jurisdictions. Abatement reduces the federal income taxes payable by persons residing in Quebec or in certain self-governing Yukon First Nation settlement lands.
 ,For the 2016 Census  the reference period is the calendar year 2015 for all income variables.
@@ -2626,25 +2626,25 @@ Notes:
 76, 'Immigrants sponsored by family' includes immigrants who were sponsored by a Canadian citizen or permanent resident and were granted permanent resident status on the basis of their relationship either as the spouse  partner  parent  grand-parent  child or other relative of this sponsor. The terms 'family class' or 'family reunification' are sometimes used to refer to this category.
 77, 'Refugees' includes immigrants who were granted permanent resident status on the basis of a well-founded fear of returning to their home country. This category includes persons who had a well-founded fear of persecution for reasons of race  religion  nationality  membership in particular social group or for political opinion (Geneva Convention refugees) as well as persons who had been seriously and personally affected by civil war or armed conflict  or have suffered a massive violation of human rights. Some refugees were in Canada when they applied for refugee protection for themselves and their family members (either with them in Canada or abroad). Others were abroad and were referred for resettlement to Canada by the United Nations Refugee Agency  another designated referral organization or private sponsors.
 78, 'Other immigrants' includes immigrants who were granted permanent resident status under a program that does not fall under the economic immigrants  the immigrants sponsored by family or the refugee categories.
-79, Aboriginal identity refers to whether the person identified with the Aboriginal peoples of Canada. This includes those who are First Nations (North American Indian)  Métis or Inuk (Inuit) and/or those who are Registered or Treaty Indians (that is  registered under the Indian Act of Canada) and/or those who have membership in a First Nation or Indian band. Aboriginal peoples of Canada are defined in the Constitution Act  1982  section 35 (2) as including the Indian  Inuit and Métis peoples of Canada.
+79, Aboriginal identity refers to whether the person identified with the Aboriginal peoples of Canada. This includes those who are First Nations (North American Indian)  MÃ©tis or Inuk (Inuit) and/or those who are Registered or Treaty Indians (that is  registered under the Indian Act of Canada) and/or those who have membership in a First Nation or Indian band. Aboriginal peoples of Canada are defined in the Constitution Act  1982  section 35 (2) as including the Indian  Inuit and MÃ©tis peoples of Canada.
 ,Users should be aware that the estimates associated with this variable are more affected than most by the incomplete enumeration of certain Indian reserves and Indian settlements in the 2016 Census of Population. For more information on Aboriginal variables  including information on their classifications  the questions from which they are derived  data quality and their comparability with other sources of data  refer to the Aboriginal Peoples Reference Guide  Census of Population  2016 and the Aboriginal Peoples Technical Report  Census of Population  2016.
-80, 'Aboriginal identity' includes persons who are First Nations (North American Indian)  Métis or Inuk (Inuit) and/or those who are Registered or Treaty Indians (that is  registered under the Indian Act of Canada) and/or those who have membership in a First Nation or Indian band. Aboriginal peoples of Canada are defined in the Constitution Act  1982  section 35 (2) as including the Indian  Inuit and Métis peoples of Canada.
-81, 'Single Aboriginal responses' includes persons who are in only one Aboriginal group  that is First Nations (North American Indian)  Métis or Inuk (Inuit).
+80, 'Aboriginal identity' includes persons who are First Nations (North American Indian)  MÃ©tis or Inuk (Inuit) and/or those who are Registered or Treaty Indians (that is  registered under the Indian Act of Canada) and/or those who have membership in a First Nation or Indian band. Aboriginal peoples of Canada are defined in the Constitution Act  1982  section 35 (2) as including the Indian  Inuit and MÃ©tis peoples of Canada.
+81, 'Single Aboriginal responses' includes persons who are in only one Aboriginal group  that is First Nations (North American Indian)  MÃ©tis or Inuk (Inuit).
 82, Users should be aware that the estimates associated with this variable are more affected than most by the incomplete enumeration of certain Indian reserves and Indian settlements in the 2016 Census of Population. For additional information  refer to the Aboriginal Peoples Reference Guide  Census of Population  2016.
-83, 'Multiple Aboriginal responses' includes persons who are any two or all three of the following: First Nations (North American Indian)  Métis or Inuk (Inuit).
-84, 'Aboriginal responses not included elsewhere' includes persons who are not First Nations (North American Indian)  Métis or Inuk (Inuit) but who have Registered or Treaty Indian status and/or Membership in a First Nation or Indian band.
+83, 'Multiple Aboriginal responses' includes persons who are any two or all three of the following: First Nations (North American Indian)  MÃ©tis or Inuk (Inuit).
+84, 'Aboriginal responses not included elsewhere' includes persons who are not First Nations (North American Indian)  MÃ©tis or Inuk (Inuit) but who have Registered or Treaty Indian status and/or Membership in a First Nation or Indian band.
 85, Registered or Treaty Indian status refers to whether or not a person is a Registered or Treaty Indian. Registered Indians are persons who are registered under the Indian Act of Canada. Treaty Indians are persons who belong to a First Nation or Indian band that signed a treaty with the Crown. Registered or Treaty Indians are sometimes also called Status Indians.
 ,Users should be aware that the estimates associated with this variable are more affected than most by the incomplete enumeration of certain Indian reserves and Indian settlements in the Census of Population. For more information on Aboriginal variables  including information on their classifications  the questions from which they are derived  data quality and their comparability with other sources of data  please refer to the Aboriginal Peoples Reference Guide  Census of Population  2016 and the Aboriginal Peoples Technical Report  Census of Population  2016.
 86, 'Registered or Treaty Indian Status' includes persons who are a Registered or Treaty Indian. Registered Indians are persons who are registered under the Indian Act of Canada. Treaty Indians are persons who belong to a First Nation or Indian band that signed a treaty with the Crown. Registered or Treaty Indians are sometimes also called Status Indians.
-87, Aboriginal ancestry refers to whether a person has ancestry associated with the Aboriginal peoples of Canada  that is  First Nations (North American Indian)  Métis  and Inuit. Aboriginal peoples of Canada are defined in the Constitution Act  1982  section 35 (2) as including the Indian  Inuit and Métis peoples of Canada. Ancestry refers to the ethnic or cultural origins of the person's ancestors  an ancestor being usually more distant than a grandparent. A person can have more than one ethnic or cultural origin.
+87, Aboriginal ancestry refers to whether a person has ancestry associated with the Aboriginal peoples of Canada  that is  First Nations (North American Indian)  MÃ©tis  and Inuit. Aboriginal peoples of Canada are defined in the Constitution Act  1982  section 35 (2) as including the Indian  Inuit and MÃ©tis peoples of Canada. Ancestry refers to the ethnic or cultural origins of the person's ancestors  an ancestor being usually more distant than a grandparent. A person can have more than one ethnic or cultural origin.
 ,Users should be aware that the estimates associated with this variable are more affected than most by the incomplete enumeration of certain Indian reserves and Indian settlements in the Census of Population.
 ,For more information on Aboriginal variables  including information on their classifications  the questions from which they are derived  data quality and their comparability with other sources of data  refer to the Aboriginal Peoples Reference Guide  Census of Population  2016 and the Aboriginal Peoples Technical Report  Census of Population  2016.
-88, 'Aboriginal ancestry (only)' includes persons who have First Nations (North American Indian)  Métis and/or Inuit ancestry. It excludes persons with non-Aboriginal ancestry.
-89, 'Single Aboriginal ancestry (only)' includes persons who have only one of First Nations (North American Indian)  Métis or Inuit ancestry. It excludes persons with non-Aboriginal ancestry.
-90, 'Multiple Aboriginal ancestries (only)' includes persons who have two or more of First Nations (North American Indian)  Métis and Inuit ancestries. It excludes persons with non-Aboriginal ancestry.
-91, 'Aboriginal and non-Aboriginal ancestries' includes persons who have First Nations (North American Indian)  Métis and/or Inuit ancestry  as well as non-Aboriginal ancestry.
-92, 'Single Aboriginal and non-Aboriginal ancestries' includes persons who have First Nations (North American Indian)  Métis or Inuit ancestry  as well as non-Aboriginal ancestry.
-93, 'Multiple Aboriginal and non-Aboriginal ancestries' includes persons who have two or more of First Nations (North American Indian)  Métis and Inuit ancestries  as well as non-Aboriginal ancestry.
+88, 'Aboriginal ancestry (only)' includes persons who have First Nations (North American Indian)  MÃ©tis and/or Inuit ancestry. It excludes persons with non-Aboriginal ancestry.
+89, 'Single Aboriginal ancestry (only)' includes persons who have only one of First Nations (North American Indian)  MÃ©tis or Inuit ancestry. It excludes persons with non-Aboriginal ancestry.
+90, 'Multiple Aboriginal ancestries (only)' includes persons who have two or more of First Nations (North American Indian)  MÃ©tis and Inuit ancestries. It excludes persons with non-Aboriginal ancestry.
+91, 'Aboriginal and non-Aboriginal ancestries' includes persons who have First Nations (North American Indian)  MÃ©tis and/or Inuit ancestry  as well as non-Aboriginal ancestry.
+92, 'Single Aboriginal and non-Aboriginal ancestries' includes persons who have First Nations (North American Indian)  MÃ©tis or Inuit ancestry  as well as non-Aboriginal ancestry.
+93, 'Multiple Aboriginal and non-Aboriginal ancestries' includes persons who have two or more of First Nations (North American Indian)  MÃ©tis and Inuit ancestries  as well as non-Aboriginal ancestry.
 94, 'Non-Aboriginal ancestry (only)' includes persons who have non-Aboriginal ancestry only.
 95, Visible minority refers to whether a person belongs to a visible minority group as defined by the Employment Equity Act and  if so  the visible minority group to which the person belongs. The Employment Equity Act defines visible minorities as "persons  other than Aboriginal peoples  who are non-Caucasian in race or non-white in colour." The visible minority population consists mainly of the following groups: South Asian  Chinese  Black  Filipino  Latin American  Arab  Southeast Asian  West Asian  Korean and Japanese.
 ,For more information on the Visible minority variable  including information on its classification  the questions from which it is derived  data quality and its comparability with other sources of data  please refer to the Visible Minority and Population Group Reference Guide  Census of Population  2016.

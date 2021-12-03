@@ -39,8 +39,8 @@ Colleges,VALENTINO,LUCY,"$123,066.38",$185.78,Centennial College,"Chair, English
 Colleges,WATTS,LYNNE,"$106,536.59",$229.09,Centennial College,"VP, Administration",2001
 Colleges,WELLS,SUSAN,"$119,669.28",$185.78,Centennial College,"Chair, Applied Arts",2001
 Colleges,WINNINGHAM,KATHLEEN,"$105,418.69",$161.75,Centennial College,"Manager, Co-op Edu. & Employment Res.",2001
-Colleges,CHRÉTIEN,GISELE,"$118,720.16",$839.51,College Boreal,Présidente,2001
-Colleges,GUINDON,RAYMOND,"$104,720.61",$219.40,College Boreal,"VP, Invest. et dév. stratégique",2001
+Colleges,CHRÃ‰TIEN,GISELE,"$118,720.16",$839.51,College Boreal,PrÃ©sidente,2001
+Colleges,GUINDON,RAYMOND,"$104,720.61",$219.40,College Boreal,"VP, Invest. et dÃ©v. stratÃ©gique",2001
 Colleges,DONALD,JOHN,"$111,957.10",$173.29,Conestoga College,"Dean, Information Technology",2001
 Colleges,GIBSON,RICHARD,"$108,419.65",$151.80,Conestoga College,Chief Information Officer,2001
 Colleges,JEFFREY,WILLIAM,"$101,291.24",$185.36,Conestoga College,"Dean, Health Sciences & Comm. Servs.",2001
@@ -86,10 +86,10 @@ Colleges,HATTON,MICHAEL,"$107,216.48",$209.89,Humber College,"Asst. VP, Strategi
 Colleges,HOOK,RICHARD,"$125,987.39",$223.22,Humber College,"Vice President, Academic",2001
 Colleges,MASON,JOHN,"$108,941.14",$182.98,Humber College,"Director, Customer Relations",2001
 Colleges,SUTTON,JOHN,"$102,652.37",$178.33,Humber College,"Director, Fin SRV & Planning",2001
-Colleges,BERGERON,CLAUDE,"$118,821.85",$243.92,La Cité collégiale,"Vice-président, Enseignement",2001
-Colleges,HUBERT,DENIS,"$117,488.51",$228.72,La Cité collégiale,"VP, Administration et finances",2001
-Colleges,LAFORTUNE,PHILIPPE,"$102,544.40",$192.42,La Cité collégiale,"Directeur, Ressources humaines",2001
-Colleges,LORTIE,ANDRÉE,"$150,704.37","$1,416.14",La Cité collégiale,Présidente,2001
+Colleges,BERGERON,CLAUDE,"$118,821.85",$243.92,La CitÃ© collÃ©giale,"Vice-prÃ©sident, Enseignement",2001
+Colleges,HUBERT,DENIS,"$117,488.51",$228.72,La CitÃ© collÃ©giale,"VP, Administration et finances",2001
+Colleges,LAFORTUNE,PHILIPPE,"$102,544.40",$192.42,La CitÃ© collÃ©giale,"Directeur, Ressources humaines",2001
+Colleges,LORTIE,ANDRÃ‰E,"$150,704.37","$1,416.14",La CitÃ© collÃ©giale,PrÃ©sidente,2001
 Colleges,BLUNDELL,TERRENCE J.,"$148,287.00","$13,602.00",Lambton College,President,2001
 Colleges,AULD,DOUGLAS A.,"$131,085.47","$9,439.76",Loyalist College,President,2001
 Colleges,ANDERCHEK,PATRICIA,"$101,437.96",$224.96,Mohawk College,Co-ord. Faculty,2001
@@ -1627,7 +1627,7 @@ Hospitals,CARLIER,MAUREEN,"$136,227.45",$819.28,Montfort Hospital,Pathologist,20
 Hospitals,JOANISSE,JOHN,"$131,890.32","$1,543.30",Montfort Hospital,"Vice-President, Academic Affairs",2001
 Hospitals,JOYAL,MARC,"$125,873.42","$4,384.02",Montfort Hospital,"Exec. VP & VP, Business Admin. & Fin.",2001
 Hospitals,PLANTE,DIANE,"$110,728.72","$1,295.80",Montfort Hospital,"Vice-President, Clinical Services",2001
-Hospitals,SAVOIE,GÉRALD R.,"$229,282.67","$1,908.00",Montfort Hospital,President and CEO,2001
+Hospitals,SAVOIE,GÃ‰RALD R.,"$229,282.67","$1,908.00",Montfort Hospital,President and CEO,2001
 Hospitals,ADAMSON,LEE,"$104,614.26",$396.84,Mount Sinai Hospital,Senior Scientist (Research Institute),2001
 Hospitals,ANDRULIS,IRENE,"$135,378.10",$414.00,Mount Sinai Hospital,Senior Scientist (Research Institute),2001
 Hospitals,ASHMAN,KEITH,"$101,942.44",$399.96,Mount Sinai Hospital,Director,2001
@@ -1921,10 +1921,10 @@ Hospitals,JACKSON,MICHEAL,"$146,388.51",$704.89,South Grey Bruce Health Centre,C
 Hospitals,CARRIERE,DANIEL,"$240,000.00","$2,926.00",Southlake Regional Health Centre,President and CEO,2001
 Hospitals,MACKEN,NANCY,"$125,192.00","$15,897.00",Southlake Regional Health Centre,"VP, Finance and Information",2001
 Hospitals,NORMAN,PATRICIA,"$125,192.00","$15,897.00",Southlake Regional Health Centre,"VP, Regional Programs",2001
-Hospitals,DAWE,BRIAN,"$118,131.39",$674.18,St. John´s Rehabilitation,"VP, Corp. and Support Services",2001
-Hospitals,EDWARDS,ROSE,"$109,672.86",$622.04,St. John´s Rehabilitation,"VP, Programs",2001
-Hospitals,LEVY,JEFF,"$129,922.92",$704.08,St. John´s Rehabilitation,"VP, Marketing",2001
-Hospitals,LOWI-YOUNG,MIMI,"$235,098.37","$9,054.34",St. John´s Rehabilitation,President & CEO,2001
+Hospitals,DAWE,BRIAN,"$118,131.39",$674.18,St. JohnÂ´s Rehabilitation,"VP, Corp. and Support Services",2001
+Hospitals,EDWARDS,ROSE,"$109,672.86",$622.04,St. JohnÂ´s Rehabilitation,"VP, Programs",2001
+Hospitals,LEVY,JEFF,"$129,922.92",$704.08,St. JohnÂ´s Rehabilitation,"VP, Marketing",2001
+Hospitals,LOWI-YOUNG,MIMI,"$235,098.37","$9,054.34",St. JohnÂ´s Rehabilitation,President & CEO,2001
 Hospitals,BUCKLER,TRACY,"$115,249.00",$864.00,"St. Joseph's Care Grp, Thunder Bay",VP & Chief Nursing Officer,2001
 Hospitals,SILLMAN,JANET,"$105,565.00",$860.00,"St. Joseph's Care Grp, Thunder Bay","VP, Mental Health & Addiction Services",2001
 Hospitals,WHITE,CARL,"$144,208.00","$1,283.00","St. Joseph's Care Grp, Thunder Bay",President,2001
@@ -2073,7 +2073,7 @@ Hospitals,LUCILLE,PERREAULT,"$111,999.92","$3,417.32",Sudbury Regional Hospital,
 Hospitals,PATRICIA,THOMPSON,"$102,385.24",$301.43,Sudbury Regional Hospital,Senior Pharmacist,2001
 Hospitals,SR.BONNIE,MACLELLAN,"$141,499.86","$5,923.41",Sudbury Regional Hospital,"President and CEO, SJHC",2001
 Hospitals,VICKIE,KAMINSKI,"$199,903.30","$6,284.88",Sudbury Regional Hospital,"President and CEO, HRSRH",2001
-Hospitals,VIVIANE,LAPOINTE,"$102,617.17",$371.81,Sudbury Regional Hospital,"VP, Communications & Gov´t Relations",2001
+Hospitals,VIVIANE,LAPOINTE,"$102,617.17",$371.81,Sudbury Regional Hospital,"VP, Communications & GovÂ´t Relations",2001
 Hospitals,ABAYARI,AGNES C.,"$102,559.06",$172.75,Sunnybrook & Women's College,Registered Nurse,2001
 Hospitals,APPT,DOUGLAS,"$228,704.91",$791.04,Sunnybrook & Women's College,"VP, Human Resources",2001
 Hospitals,BLACK,ELIZABETH M.,"$109,795.91",$0.00,Sunnybrook & Women's College,Staff Nurse,2001
@@ -8477,7 +8477,7 @@ Ontario Public Service,SADLIER-BROWN,KAREN,"$138,266.74",$322.11,Finance,"ADM, E
 Ontario Public Service,SAVIO,DARIO,"$109,016.54",$254.85,Finance,"Dir., Special Investigations Branch",2001
 Ontario Public Service,SCOTT,A. KELLY,"$104,652.68",$254.85,Finance,"Dir., Corp.Financial Mgmt/Integration",2001
 Ontario Public Service,SEALEY,CLEMENT,"$103,190.19",$247.67,Finance,"Director, RTO London",2001
-Ontario Public Service,SÉKALY,GABRIEL,"$129,217.14",$306.60,Finance,"ADM, Fiscal & Financial Policy Division",2001
+Ontario Public Service,SÃ‰KALY,GABRIEL,"$129,217.14",$306.60,Finance,"ADM, Fiscal & Financial Policy Division",2001
 Ontario Public Service,SIDDALL,ROBERT,"$110,957.16",$254.85,Finance,Provincial Controller,2001
 Ontario Public Service,SMYTH,GREGG,"$109,016.54",$254.85,Finance,"Director, Financial Analysis Branch",2001
 Ontario Public Service,SWEETING,THOMAS,"$149,108.80",$330.99,Finance,"ADM, Office of the Budget & Taxation",2001
@@ -8997,8 +8997,8 @@ Other Public Sector Employers,CHARRON,WILLIAM,"$123,235.17",$672.00,C.A.S.- Niag
 Other Public Sector Employers,PHILLIPS,JAMES,"$105,106.98",$282.30,C.A.S.- Reg. Municipality of Waterloo,Director of Corporate Resources,2001
 Other Public Sector Employers,RINGROSE,PETER,"$112,302.26",$282.30,C.A.S.- Reg. Municipality of Waterloo,Executive Director,2001
 Other Public Sector Employers,BALLANTYNE,MARY,"$106,123.95","$1,139.54",C.A.S.- Simcoe County,Executive Director,2001
-Other Public Sector Employers,BERGERON,PIERRE,"$120,004.00","$9,786.00",C.S.C.E.,médecin,2001
-Other Public Sector Employers,MARTEL,GAÉTAN,"$136,645.00","$9,661.00",C.S.C.E.,médecin,2001
+Other Public Sector Employers,BERGERON,PIERRE,"$120,004.00","$9,786.00",C.S.C.E.,mÃ©decin,2001
+Other Public Sector Employers,MARTEL,GAÃ‰TAN,"$136,645.00","$9,661.00",C.S.C.E.,mÃ©decin,2001
 Other Public Sector Employers,HEFT,HAROLD,"$105,000.00",$291.90,"Can. Inst. for Adv. Research, The","Director, Advancement",2001
 Other Public Sector Employers,HOSEK,CHAVIVA,"$220,923.91",$708.00,"Can. Inst. for Adv. Research, The",President / CEO,2001
 Other Public Sector Employers,SPENCE,KARA,"$161,674.96","$9,947.52","Can. Inst. for Adv. Research, The","Vice President, Advancement",2001
@@ -9066,8 +9066,8 @@ Other Public Sector Employers,CALLA,MARIO,"$121,292.00","$5,962.00",Costi - IIAS
 Other Public Sector Employers,LAFORTY,JACK,"$123,123.00","$13,562.92",Country Roads Community Hlth Ctr.,Physician,2001
 Other Public Sector Employers,NORGATE,GRAHAM,"$101,275.00",$696.00,CRESTech,"Director, Programs and Contracts",2001
 Other Public Sector Employers,ROWE,IAN,"$135,522.00",$855.00,CRESTech,President & CEO,2001
-Other Public Sector Employers,LEROUX,NATHALIE,"$138,544.00","$4,545.00",CSC Hamilton-Niagara,Médecin,2001
-Other Public Sector Employers,TITTLEY,CAMILLE,"$130,597.00","$4,314.00",CSC Hamilton-Niagara,Médecin,2001
+Other Public Sector Employers,LEROUX,NATHALIE,"$138,544.00","$4,545.00",CSC Hamilton-Niagara,MÃ©decin,2001
+Other Public Sector Employers,TITTLEY,CAMILLE,"$130,597.00","$4,314.00",CSC Hamilton-Niagara,MÃ©decin,2001
 Other Public Sector Employers,PELLIZZARI,ROSANA,"$102,917.34","$7,104.61",Davenport Perth Neighbourhood Ctr,Physician,2001
 Other Public Sector Employers,SUGRYAMA,JAMES,"$123,793.06","$8,320.88",Davenport Perth Neighbourhood Ctr,Physician,2001
 Other Public Sector Employers,TORLONE,JOSEPH G.,"$118,932.72",$497.49,Dist. of Cochrane Soc. Srvcs Adm. Brd,Chief Administrative Officer,2001
@@ -9485,7 +9485,7 @@ Other Public Sector Employers,SALMONS,STEVEN,"$113,005.00","$1,136.00",Windsor P
 Other Public Sector Employers,BEVAN,WILLIAM,"$123,171.17","$5,300.33",Windsor-Essex Children's Aid Society,Executive Director,2001
 Other Public Sector Employers,ABRAMSON,M. ARNOLD,"$127,246.03",$657.54,Windsor-Essex Health Unit,Dental Consultant,2001
 Other Public Sector Employers,HEIMANN,G. ALLEN,"$170,213.96",$657.54,Windsor-Essex Health Unit,Medical Officer of Health,2001
-Other Public Sector Employers,CRAWFORD,STEVEN,"$101,000.00",$0.00,Women´s Christian Association,CEO,2001
+Other Public Sector Employers,CRAWFORD,STEVEN,"$101,000.00",$0.00,WomenÂ´s Christian Association,CEO,2001
 Other Public Sector Employers,DUNCAN,DONALD,"$116,132.11","$6,131.95",YMCA -YWCA,Chief Executive Officer,2001
 Other Public Sector Employers,ADAM,CATHERINE,"$184,569.42",$0.00,York CCAC,Chief Executive Officer,2001
 Other Public Sector Employers,LITTLE,D'ARCY,"$108,287.12","$3,609.41",York Community Services Ctr.,Physician,2001
@@ -9528,40 +9528,40 @@ School Boards,HAWES,DONALEEN,"$109,846.33",$622.30,Catholic DSB of Eastern Ontar
 School Boards,LATTANZIO,PAUL,"$105,044.44",$601.98,Catholic DSB of Eastern Ontario,Superintendent of Education,2001
 School Boards,LYDON,KEVIN,"$119,415.06",$679.92,Catholic DSB of Eastern Ontario,Superintendent of Education,2001
 School Boards,MCNALLY,GREG,"$123,953.46",$808.32,Catholic DSB of Eastern Ontario,Director of Education,2001
-School Boards,CHARTRAND,DENIS S.,"$125,231.97",$393.95,CEP de l'Est de l'Ont.,Directeur de l'éducation et sec.-trés.,2001
+School Boards,CHARTRAND,DENIS S.,"$125,231.97",$393.95,CEP de l'Est de l'Ont.,Directeur de l'Ã©ducation et sec.-trÃ©s.,2001
 School Boards,SANTERRE,ANNIE,"$101,084.67",$280.25,CEP de l'Est de l'Ont.,Surintendante,2001
-School Boards,AINSWORTH,ALPHONSE,"$105,332.00","$2,332.00",CSCD des Grandes Riviéres,Agent de supervision,2001
-School Boards,GRISÉ,JEAN,"$122,245.00","$4,347.00",CSCD des Grandes Riviéres,Directeur de l'education,2001
-School Boards,LAFOREST,LILIANE,"$105,332.00","$2,332.00",CSCD des Grandes Riviéres,Agente de supervision,2001
-School Boards,SCHRYBURT,JEAN-LOUIS,"$105,330.00","$2,330.00",CSCD des Grandes Riviéres,Agent de supervision,2001
-School Boards,DEMERS,BERNARD,"$103,834.00",$834.00,CSCD. des Grandes Riviéres,Gérant du serv.des res.humaines,2001
+School Boards,AINSWORTH,ALPHONSE,"$105,332.00","$2,332.00",CSCD des Grandes RiviÃ©res,Agent de supervision,2001
+School Boards,GRISÃ‰,JEAN,"$122,245.00","$4,347.00",CSCD des Grandes RiviÃ©res,Directeur de l'education,2001
+School Boards,LAFOREST,LILIANE,"$105,332.00","$2,332.00",CSCD des Grandes RiviÃ©res,Agente de supervision,2001
+School Boards,SCHRYBURT,JEAN-LOUIS,"$105,330.00","$2,330.00",CSCD des Grandes RiviÃ©res,Agent de supervision,2001
+School Boards,DEMERS,BERNARD,"$103,834.00",$834.00,CSCD. des Grandes RiviÃ©res,GÃ©rant du serv.des res.humaines,2001
 School Boards,BERNARD,JEAN-LUC,"$129,836.01",$0.00,CSD Centre Sud-Ouest,Directeur associe de l'education,2001
 School Boards,D'AMOUR,LOUISE,"$119,769.35",$0.00,CSD Centre Sud-Ouest,Surintendante de l'education,2001
-School Boards,DUCHARME,ALICE,"$152,780.99",$0.00,CSD Centre Sud-Ouest,Directrice de l'éducation,2001
-School Boards,DIONNE,MARC,"$130,191.00","$3,615.00",CSD Grand Nord de l'Ontario,Directeur général,2001
+School Boards,DUCHARME,ALICE,"$152,780.99",$0.00,CSD Centre Sud-Ouest,Directrice de l'Ã©ducation,2001
+School Boards,DIONNE,MARC,"$130,191.00","$3,615.00",CSD Grand Nord de l'Ontario,Directeur gÃ©nÃ©ral,2001
 School Boards,LOZIER,DIANE,"$108,495.00","$3,519.00",CSD Grand Nord de l'Ontario,Surintendante,2001
 School Boards,CHARLAND,FRANCINE,"$106,552.83",$467.20,CSD Nord-Est,Chef du Service des Resources humaines,2001
 School Boards,YAPPS,DENNIS,"$111,041.99",$544.66,CSD Nord-Est,Directeur de l'education,2001
-School Boards,BOUTIN,PIERRE,"$108,819.00","$1,109.83",CSDC Centre-Est de l'Ontario,Surintendant de l'Éducation,2001
-School Boards,CHAMPAGNE,MADELINE,"$118,877.00","$1,219.76",CSDC Centre-Est de l'Ontario,Surintendante de l'Éducation,2001
-School Boards,FILIATRAULT,PIERRE,"$113,850.00","$4,981.21",CSDC Centre-Est de l'Ontario,Surintendant administratif et trésorier,2001
-School Boards,GALARNEAU,GILLES,"$108,052.93","$1,091.90",CSDC Centre-Est de l'Ontario,Surintendant de l'éducation,2001
-School Boards,GODBOUT,MARC,"$137,356.00","$7,329.05",CSDC Centre-Est de l'Ontario,"Dir.,de l'éduc. et secrétaire du Conseil",2001
-School Boards,BARD,MARCEL,"$144,355.54","$1,143.23",CSDC Centre-Sud,Directeur de l'éducation,2001
+School Boards,BOUTIN,PIERRE,"$108,819.00","$1,109.83",CSDC Centre-Est de l'Ontario,Surintendant de l'Ã‰ducation,2001
+School Boards,CHAMPAGNE,MADELINE,"$118,877.00","$1,219.76",CSDC Centre-Est de l'Ontario,Surintendante de l'Ã‰ducation,2001
+School Boards,FILIATRAULT,PIERRE,"$113,850.00","$4,981.21",CSDC Centre-Est de l'Ontario,Surintendant administratif et trÃ©sorier,2001
+School Boards,GALARNEAU,GILLES,"$108,052.93","$1,091.90",CSDC Centre-Est de l'Ontario,Surintendant de l'Ã©ducation,2001
+School Boards,GODBOUT,MARC,"$137,356.00","$7,329.05",CSDC Centre-Est de l'Ontario,"Dir.,de l'Ã©duc. et secrÃ©taire du Conseil",2001
+School Boards,BARD,MARCEL,"$144,355.54","$1,143.23",CSDC Centre-Sud,Directeur de l'Ã©ducation,2001
 School Boards,JAMIESON,DIANE,"$101,793.38",$621.43,CSDC Centre-Sud,Surintendant,2001
-School Boards,LAVICTOIRE,FRANÇOIS,"$133,183.24",$276.39,CSDC Centre-Sud,Surintendant,2001
-School Boards,BERTRAND,FRANÇOIS,"$104,327.59",$521.35,CSDC de l'Est Ontarien,Surintendant des affaires et trésorier,2001
+School Boards,LAVICTOIRE,FRANÃ‡OIS,"$133,183.24",$276.39,CSDC Centre-Sud,Surintendant,2001
+School Boards,BERTRAND,FRANÃ‡OIS,"$104,327.59",$521.35,CSDC de l'Est Ontarien,Surintendant des affaires et trÃ©sorier,2001
 School Boards,BOURGEOIS,LISE,"$111,135.39",$549.50,CSDC de l'Est Ontarien,Directrice associee de l'education,2001
-School Boards,LEGAULT,JEAN-JACQUES,"$130,312.25",$592.71,CSDC de l'Est Ontarien,Directeur de l'éducation et secrétaire,2001
-School Boards,BOYER,RAYMOND,"$116,900.32","$5,962.57",CSDC du Nouvel-Ontario,Surintendant de l'éducation,2001
-School Boards,CANTIN,LÉO-RENÉ,"$130,641.42","$3,993.45",CSDC du Nouvel-Ontario,Surintendant de l'éducation,2001
-School Boards,CHAYER,HÉLÈNE,"$138,688.77","$5,936.02",CSDC du Nouvel-Ontario,Directrice de l'éducation,2001
+School Boards,LEGAULT,JEAN-JACQUES,"$130,312.25",$592.71,CSDC de l'Est Ontarien,Directeur de l'Ã©ducation et secrÃ©taire,2001
+School Boards,BOYER,RAYMOND,"$116,900.32","$5,962.57",CSDC du Nouvel-Ontario,Surintendant de l'Ã©ducation,2001
+School Boards,CANTIN,LÃ‰O-RENÃ‰,"$130,641.42","$3,993.45",CSDC du Nouvel-Ontario,Surintendant de l'Ã©ducation,2001
+School Boards,CHAYER,HÃ‰LÃˆNE,"$138,688.77","$5,936.02",CSDC du Nouvel-Ontario,Directrice de l'Ã©ducation,2001
 School Boards,MONTPELLIER,ROLAND,"$123,893.28","$5,973.06",CSDC du Nouvel-Ontario,Surintendant d'affaires et de finances,2001
-School Boards,BELANGER,PAUL,"$110,813.49",$870.72,CSDC du Sud-Ouest,Surintendante de l'éducation,2001
-School Boards,GRIFFORE,JANINE,"$110,813.49",$870.72,CSDC du Sud-Ouest,Surintendant de l'éducation,2001
+School Boards,BELANGER,PAUL,"$110,813.49",$870.72,CSDC du Sud-Ouest,Surintendante de l'Ã©ducation,2001
+School Boards,GRIFFORE,JANINE,"$110,813.49",$870.72,CSDC du Sud-Ouest,Surintendant de l'Ã©ducation,2001
 School Boards,GROULX,GEORGES,"$110,813.49",$870.72,CSDC du Sud-Ouest,Surintendant des affaires,2001
-School Boards,SERRÉ,MICHEL,"$128,195.05","$9,623.22",CSDC du Sud-Ouest,Directeur général,2001
-School Boards,GADOURY,LISE,"$120,876.55",$758.23,CSDC Franco-Nord,Directrice de l'éducation,2001
+School Boards,SERRÃ‰,MICHEL,"$128,195.05","$9,623.22",CSDC du Sud-Ouest,Directeur gÃ©nÃ©ral,2001
+School Boards,GADOURY,LISE,"$120,876.55",$758.23,CSDC Franco-Nord,Directrice de l'Ã©ducation,2001
 School Boards,CLAPP,MATILDA,"$113,086.86",$59.09,DSB Niagara,Superintendent of Schools,2001
 School Boards,COLLINS,PAUL,"$113,086.86",$59.09,DSB Niagara,Superintendent of Schools,2001
 School Boards,CROSS,WAYNE,"$113,079.18",$51.41,DSB Niagara,Superintendent of Schools,2001
@@ -10949,7 +10949,7 @@ Universities,BEILLARD,JEAN-MICHEL,"$145,102.56","$4,253.50",University of Ottawa
 Universities,BERNATCHEZ-LEMAIRE,IRMA,"$105,399.12",$78.00,University of Ottawa,Professeur - Professor,2001
 Universities,BISSON,ALAIN FRANCOIS,"$116,751.32",$78.00,University of Ottawa,Professeur - Professor,2001
 Universities,BOCHMANN,GREGOR V.,"$117,089.72",$81.25,University of Ottawa,Professeur - Professor,2001
-Universities,BOUCHER,PIERRE YVES,"$146,226.96",$78.00,University of Ottawa,Sec. de l'Université - University Sec.,2001
+Universities,BOUCHER,PIERRE YVES,"$146,226.96",$78.00,University of Ottawa,Sec. de l'UniversitÃ© - University Sec.,2001
 Universities,BOURDAGES,JOHANNE J.,"$102,812.04",$78.00,University of Ottawa,Prof. ; Doyenne - Dean,2001
 Universities,BRAEN,ANDRE,"$104,440.24",$78.00,University of Ottawa,Professeur - Professor,2001
 Universities,BRISSET,ANNIE,"$102,152.96",$78.00,University of Ottawa,Professeur - Professor,2001
@@ -11005,10 +11005,10 @@ Universities,GIBB,WILLIAM,"$104,588.72",$78.00,University of Ottawa,Professeur -
 Universities,GIBBONS,DAVID T,"$101,510.56",$78.00,University of Ottawa,Professeur - Professor,2001
 Universities,GIRODO,MICHEL,"$109,504.64",$78.00,University of Ottawa,Professeur - Professor,2001
 Universities,GRANDBOIS,DARRYL A,"$133,490.96",$753.00,University of Ottawa,Conseiller juridique - Legal Counsel,2001
-Universities,GREENE,RICHARD L,"$116,721.60",$78.00,University of Ottawa,Bibliothécaire en chef - Chief Librarian,2001
+Universities,GREENE,RICHARD L,"$116,721.60",$78.00,University of Ottawa,BibliothÃ©caire en chef - Chief Librarian,2001
 Universities,GRENIER,JACQUES,"$140,611.61",$106.21,University of Ottawa,Professeur - Professor,2001
 Universities,HAKIM,ANTOINE M.,"$190,271.27",$78.00,University of Ottawa,Prof. Clin. (M.D.) ; Directeur - Chair,2001
-Universities,HAMELIN,MARCEL,"$192,607.80","$5,354.21",University of Ottawa,Recteur émérite - Rector Emeritus,2001
+Universities,HAMELIN,MARCEL,"$192,607.80","$5,354.21",University of Ottawa,Recteur Ã©mÃ©rite - Rector Emeritus,2001
 Universities,HASTINGS,J. ROSS,"$102,478.40",$78.00,University of Ottawa,Prof. ; Directeur - Chair,2001
 Universities,HAVET,JOSE L,"$101,537.52",$78.00,University of Ottawa,Professeur - Professor,2001
 Universities,HENAULT,GEORGES M,"$113,712.00",$78.00,University of Ottawa,Prof. ; Doyen assoc. - Assoc. Dean,2001
@@ -11058,7 +11058,7 @@ Universities,MARSHALL,KENNETH C.,"$113,057.12",$78.00,University of Ottawa,Profe
 Universities,MATSUURA,TAKESHI T.,"$114,195.68",$78.00,University of Ottawa,Professeur - Professor,2001
 Universities,MAYNE,SEYMOUR,"$106,256.56",$78.00,University of Ottawa,Professeur - Professor,2001
 Universities,MCBURNEY,MICHAEL W,"$112,782.72",$78.00,University of Ottawa,Professeur - Professor,2001
-Universities,MCDONALD,MIRIAM,"$105,834.66",$78.00,University of Ottawa,Direct. générale - Chief Exec. Officer,2001
+Universities,MCDONALD,MIRIAM,"$105,834.66",$78.00,University of Ottawa,Direct. gÃ©nÃ©rale - Chief Exec. Officer,2001
 Universities,MCFEELY,NEIL HUGH,"$176,662.08",$78.00,University of Ottawa,Prof. clin. (M.D.) Clin. Prof.,2001
 Universities,MCLEAN,DAVID D,"$102,776.72",$78.00,University of Ottawa,Professeur - Professor,2001
 Universities,MCRAE,DONALD M,"$115,297.92",$78.00,University of Ottawa,Professeur - Professor,2001
