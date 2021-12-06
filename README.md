@@ -1,2 +1,2 @@
-# sunshine-report
-CSCI2000U final project
+# proposal
+2000u big project proposal
