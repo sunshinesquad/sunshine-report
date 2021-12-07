@@ -32,29 +32,34 @@ The data used for this exploration includes Sunshine List files from 1996 to 202
 As can be seen in the following graph, the number of provincial employees who earn $100,000 or more has increased every year. From 4,501 people in 1996 and 205,000 people in 2020. This represents an increase of $4,393.916 across the average salaries over the past 24 years.
 
 _Graph 1: Number of Provincial Employees on the Sunshine List from 1996 to 2020_
-![[Pasted image 20211206234450.png]]
+
+![alt text](https://raw.githubusercontent.com/sunshinesquad/sunshine-report/master/Blog%20Post/Pasted%20image%2020211206234450.png)
 
 Although the largest increase in people being added to the Sunshine list occured in 2020, this did not correspond to an increase in the average salary. As can be seen in the following graph, the largest increase in average salary occured from 1999 to 2001 but most recently, in 2020, the average salary decreased. The difference in average salary from 1996 When considering this decline, it would be worth noting the impact that COVID may have had.
 
 _Graph 2: Average Salary on the Sunshine List from 1996 to 2020_
-![[Pasted image 20211206234547.png]]
+
+![alt text](https://raw.githubusercontent.com/sunshinesquad/sunshine-report/master/Blog%20Post/Pasted%20image%2020211206234547.png)
 
 More starkly, when the average salaries are considered across quartiles, we can see that the highest 25% of employees earn, on average, such significantly larger salaries that the other three quartiles are compressed together. Although this highest range of earners has greater variability over the 24 years, it is interesting to note that during 2020 and the introduction of COVID, their salaries did not drop, unlike the overall average highlighted above.
 
 _Graph 3: Average Salaries by Quartiles from 1996 to 2020_
-![[Pasted image 20211206234558.png]]
+
+![alt text](https://raw.githubusercontent.com/sunshinesquad/sunshine-report/master/Blog%20Post/Pasted%20image%2020211206234558.png)
 
 Although the percentage of women in the province has remained fairly stable around 50.6% over the past 25 years, the following graph highlights that women clearly have not had the same representation on the Sunshine list.
 
 _Graph 4: Number of Men and Women on the Sunshine List from 1996 to 2020_
-![[Pasted image 20211206234604.png]]
+
+![alt text](https://raw.githubusercontent.com/sunshinesquad/sunshine-report/master/Blog%20Post/Pasted%20image%2020211206234604.png)
 
 While the number of both men and women on the list has been increasing over the past 24 years, women continue to be under-represented. 
 
 Perhaps more alarming, when considered from the perspective of racial identity, as infered from names, there is greater representation of employees who identify as white than of any other group. 
 
 _Graph 5: Number of Employees by Racial Identity from 1996 to 2020_
-![[Pasted image 20211206234616.png]]
+
+![alt text](https://raw.githubusercontent.com/sunshinesquad/sunshine-report/master/Blog%20Post/Pasted%20image%2020211206234616.png)
 
 ---
 ## Conclusion
