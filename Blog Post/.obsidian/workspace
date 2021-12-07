@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "ab75cc5d91f7b21e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9526374b41842f4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Sunshine LIst.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1fbd93ef3ab38806",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4f8863631be9aaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92c3aa46d5eb4aad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "74e471e7865a6670",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 187
+  },
+  "right": {
+    "id": "62277ac5847c12ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d714bb88910a944",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0a4cb8dca57543d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Sunshine LIst.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b9526374b41842f4",
+  "lastOpenFiles": [
+    "The Sunshine LIst.md"
+  ]
+}
